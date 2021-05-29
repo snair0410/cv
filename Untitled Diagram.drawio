@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T05:50:15.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JAvH3AOqv3nn4No0gHN0" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T06:36:08.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H7dccpLj5lx2HmXVm4Wy" version="14.7.2" type="github">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -547,6 +547,12 @@
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-255" value="Welcome Page" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="160" y="1840" width="1320" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-256" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-255">
+          <mxGeometry x="16" y="40" width="1264" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-257" value="Logo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-255">
+          <mxGeometry x="45" y="70" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
