@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T11:55:24.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="F4Lt7LvxgbHI-cgV3frU" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T13:02:48.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DFl2gp23nD-aFDf1XfIN" version="14.7.2" type="github">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -780,7 +780,7 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-332" value="Queries" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="2528" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-333" value="Name/Rank/Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-333" value="List of Editions / Tournaments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2041" y="2528" width="198.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-334" value="Returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -794,6 +794,27 @@
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-336" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2101" y="2499" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2360" y="2559" as="targetPoint" />
+            <mxPoint x="2239.75" y="2559" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-338" value="Displays" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="2520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-344" value="Past Tournaments" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="2435.5" width="440" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-345" value="Tournament Edition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-344">
+          <mxGeometry x="147.5" y="45" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-348" value="Welcome Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-344">
+          <mxGeometry x="170" y="205" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-349" value="Dropdown" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-344">
+          <mxGeometry x="40" y="45" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
