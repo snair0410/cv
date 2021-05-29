@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T16:13:36.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jhgpKnX4h9Y0zsfik8nI" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T16:16:11.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uoeH7Eqvd9ACziojwK6G" version="14.7.2" type="github">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -900,10 +900,12 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-368" value="check format flag?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3429" y="2516" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bx13AfeXELvHfdjOSMqN-370" target="Bx13AfeXELvHfdjOSMqN-418">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bx13AfeXELvHfdjOSMqN-370">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3840" y="2556" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-370" value="1) Team Information&lt;br&gt;2) 10 pics of tournament 3) Team Owners 4) Team Winner, Runner up and 3rd Place" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-370" value="1) Team Information&lt;br&gt;2) 10 pics of tournament 3) Team Owners 4) Team Winner, Runner up and 3rd Place 5) MVP 6) Seed Wise Top 3 players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3600" y="2514" width="160" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bx13AfeXELvHfdjOSMqN-371" target="Bx13AfeXELvHfdjOSMqN-379">
@@ -1009,9 +1011,6 @@
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-413" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3330" y="3090" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-418" value="Retrieve image from player name" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="3840" y="2497" width="100" height="118" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-420" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3845" y="2470" width="90" height="20" as="geometry" />
