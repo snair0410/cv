@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T11:13:46.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wdEcAX121b2sty3nqHkQ" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T11:18:21.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="YGLJHZ2HFKbDtJ8N878p" version="14.7.2" type="github">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -727,6 +727,11 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-314" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1885" y="2160" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bx13AfeXELvHfdjOSMqN-315">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2360" y="2255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-315" value="Name/Rank/Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2041" y="2225" width="198.75" height="60" as="geometry" />
         </mxCell>
@@ -738,6 +743,24 @@
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-319" value="Returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1990" y="2225" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-320" value="GSM Ranking List" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="2155" width="440" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-323" value="Rank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-320">
+          <mxGeometry x="20" y="65" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-324" value="Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-320">
+          <mxGeometry x="190" y="65" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-325" value="Pic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-320">
+          <mxGeometry x="370" y="65" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-326" value="Welcome Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-320">
+          <mxGeometry x="170" y="205" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-322" value="Displays" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="2220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
