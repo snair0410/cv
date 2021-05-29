@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T15:22:22.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="q6M7DtnCL-p35tlh87iC" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T16:06:14.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qHfGTD8nnUSX00C7tvNc" version="14.7.2" type="github">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -906,7 +906,7 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bx13AfeXELvHfdjOSMqN-371" target="Bx13AfeXELvHfdjOSMqN-379">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-371" value="1) Group Details&lt;br&gt;2) Group Standings&lt;br&gt;3) 10 pics of tournament" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-371" value="1) Group Details&lt;br&gt;2) 10 pics of tournament" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3409" y="2660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-374" value="Team Format" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -950,14 +950,14 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bx13AfeXELvHfdjOSMqN-388" target="Bx13AfeXELvHfdjOSMqN-391">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-388" value="Aggregate full data (group details, group standings, 10 pics &amp;amp; winner information)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-388" value="Aggregate full data (group details, 10 pics &amp;amp; winner information)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3409" y="3000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-390" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3344" y="3020" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-391" value="Past Tournaments" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="3190" y="3120" width="520" height="430" as="geometry" />
+          <mxGeometry x="3190" y="3120" width="520" height="600" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-394" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-391">
           <mxGeometry x="9" y="30" width="501" height="50" as="geometry" />
@@ -977,6 +977,18 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-412" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-391">
           <mxGeometry x="310" y="50" width="170" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-414" value="Group Information&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-391">
+          <mxGeometry x="9.5" y="200" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-415" value="Format&amp;nbsp;&lt;br&gt;Date&amp;nbsp;&lt;br&gt;Total Number Of Players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-391">
+          <mxGeometry x="320" y="90" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-416" value="Winner Pics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-391">
+          <mxGeometry x="9.5" y="320" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-417" value="Winner Pics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bx13AfeXELvHfdjOSMqN-391">
+          <mxGeometry x="9" y="440" width="501" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-402" value="Logo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2360" y="2470" width="40" height="20" as="geometry" />
         </mxCell>
@@ -991,6 +1003,9 @@
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-407" value="Logout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="2470" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-413" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="3090" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
