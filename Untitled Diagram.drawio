@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T03:20:30.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="lYf93rZw-gNMfM6kssva" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T03:29:38.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="lb6ruW8tAkXiL8isYFkJ" version="14.7.2" type="github">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -103,8 +103,8 @@
             <mxPoint x="255" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-87" value="token/userid/email/ Fname&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1200" width="120" height="40" as="geometry" />
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-87" value="token/userid/email/ Fname/Sname/&lt;br&gt;UserGuest&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-89" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="660" width="90" height="20" as="geometry" />
@@ -201,8 +201,8 @@
             <mxPoint x="546" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-137" value="token/userid/email /Fname&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="1200" width="120" height="40" as="geometry" />
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-137" value="token/userid/email/ Fname/Sname/&lt;br&gt;UserGuest&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-138" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="371" y="1210" width="90" height="20" as="geometry" />
@@ -293,8 +293,8 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-163" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="1340" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-164" value="token/userid/email&lt;br&gt;/fname&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1460" width="120" height="40" as="geometry" />
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-164" value="token/userid/email/ Fname/Sname/&lt;br&gt;UserGuest&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-165" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="1470" width="90" height="20" as="geometry" />
@@ -305,7 +305,7 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bx13AfeXELvHfdjOSMqN-255">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="919.5" y="1620" as="targetPoint" />
-            <mxPoint x="919.5" y="1500" as="sourcePoint" />
+            <mxPoint x="919" y="1520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-168" value="displays" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -393,8 +393,8 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-202" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1330" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-203" value="token/userid/email&lt;br&gt;/fname&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1460" width="120" height="40" as="geometry" />
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-203" value="token/userid/email/ Fname/Sname/&lt;br&gt;UserGuest&lt;br&gt;/&lt;font color=&quot;#ff3333&quot;&gt;startingData&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-205" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1460" width="40" height="20" as="geometry" />
