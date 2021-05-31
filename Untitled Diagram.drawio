@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T19:49:12.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="apJSe6dCChnUl1vlF6td" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-31T19:52:41.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="BRPyGQcOlyDgp782gB2G" version="14.7.2" type="github" pages="2">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1598,14 +1598,14 @@
         <mxCell id="v46GxL57UnmOsNfW0f8K-4" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="226" y="1320" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="v46GxL57UnmOsNfW0f8K-5" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="216" y="1580" width="120" height="80" as="geometry" />
+        <mxCell id="v46GxL57UnmOsNfW0f8K-5" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points, Team Name, Seed Level, Auction Value" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
+          <mxGeometry x="130" y="1580" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v46GxL57UnmOsNfW0f8K-6" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="186" y="1390" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v46GxL57UnmOsNfW0f8K-7" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="110" y="1590" width="90" height="20" as="geometry" />
+          <mxGeometry x="110" y="1560" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GOCvrbdItYDOtCwFDWlX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" target="GOCvrbdItYDOtCwFDWlX-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1764,8 +1764,8 @@
         <mxCell id="p3N_tC-KcUP84bKbM4yh-34" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="501" y="1320" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p3N_tC-KcUP84bKbM4yh-35" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="469.5" y="1550" width="120" height="80" as="geometry" />
+        <mxCell id="p3N_tC-KcUP84bKbM4yh-35" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points, Team Name, Seed Level, Auction Value" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
+          <mxGeometry x="469.5" y="1550" width="270.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p3N_tC-KcUP84bKbM4yh-36" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="461" y="1390" width="40" height="20" as="geometry" />
@@ -1972,14 +1972,14 @@
         <mxCell id="cvozDJThuYwO7cL454n2-25" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="894.5" y="1760" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cvozDJThuYwO7cL454n2-26" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="867.5" y="1990" width="120" height="80" as="geometry" />
+        <mxCell id="cvozDJThuYwO7cL454n2-26" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points, Team Name, Seed Level, Auction Value" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
+          <mxGeometry x="800" y="1990" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cvozDJThuYwO7cL454n2-27" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="857.5" y="1960" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cvozDJThuYwO7cL454n2-28" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="764.5" y="2030" width="90" height="20" as="geometry" />
+          <mxGeometry x="708.5" y="1995" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cvozDJThuYwO7cL454n2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" target="cvozDJThuYwO7cL454n2-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2152,14 +2152,14 @@
         <mxCell id="SnYmrzAjAapM_Iee52Bh-6" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="1546" y="1420" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SnYmrzAjAapM_Iee52Bh-7" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="1516.5" y="1670" width="120" height="80" as="geometry" />
+        <mxCell id="SnYmrzAjAapM_Iee52Bh-7" value="Member name, member pic &amp;amp; rank top 5 ranks, Member rank, Member PDR, Member Image, Member Points Team Name, Seed Level, Auction Value" style="rounded=1;whiteSpace=wrap;html=1;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
+          <mxGeometry x="1370" y="1670" width="266.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SnYmrzAjAapM_Iee52Bh-8" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="1506.5" y="1640" width="40" height="20" as="geometry" />
+          <mxGeometry x="1500" y="1623" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SnYmrzAjAapM_Iee52Bh-9" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
-          <mxGeometry x="1415" y="1700" width="90" height="20" as="geometry" />
+          <mxGeometry x="1260" y="1700" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SnYmrzAjAapM_Iee52Bh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" target="SnYmrzAjAapM_Iee52Bh-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2452,7 +2452,7 @@
           <mxGeometry x="297" y="140" width="373" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-39" value="Upload Picture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
-          <mxGeometry x="418.75" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="418.75" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-40" value="Edit Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1111.5" y="210" width="120" height="60" as="geometry" />
@@ -2477,6 +2477,9 @@
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-47" value="View GSM Stats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1111.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WHkxhcLicbcfGL3rP6kz-75" value="Tournament Central&lt;br&gt;Team Name&lt;br&gt;Seed Level&lt;br&gt;Auction Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="692.5" y="380" width="373" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="WHkxhcLicbcfGL3rP6kz-48" target="v46GxL57UnmOsNfW0f8K-5">
           <mxGeometry relative="1" as="geometry" />
