@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T02:52:01.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-p-5SGyKodSE5I8K7dN0" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-01T04:53:26.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Ms1nOAsykY4yee_JNn03" version="14.7.2" type="github" pages="2">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2443,10 +2443,10 @@
           <mxGeometry x="980" y="1240" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-36" value="GSM Rank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
-          <mxGeometry x="746.5" y="70" width="170" height="20" as="geometry" />
+          <mxGeometry x="699" y="70" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-37" value="GSM PDR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
-          <mxGeometry x="941.5" y="70" width="170" height="20" as="geometry" />
+          <mxGeometry x="840" y="70" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-38" value="Pic of Player" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="297" y="140" width="373" height="240" as="geometry" />
@@ -2501,6 +2501,9 @@
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-85" value="Online Friends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="100" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WHkxhcLicbcfGL3rP6kz-86" value="GSM Feed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="990" y="70" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="WHkxhcLicbcfGL3rP6kz-48" target="v46GxL57UnmOsNfW0f8K-5">
           <mxGeometry relative="1" as="geometry" />
