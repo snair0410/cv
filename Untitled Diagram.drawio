@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T13:05:20.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="L9W4DuKDORBghH-h9UZe" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-02T13:10:18.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="D_kDUlIGpiYote-R3iKm" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2861,7 +2861,7 @@
           <mxGeometry x="120" y="530" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wzvgIdQ_RYPP_FSqdfN3-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
-          <mxGeometry x="520" y="360" width="360" height="210" as="geometry" />
+          <mxGeometry x="480" y="360" width="360" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wzvgIdQ_RYPP_FSqdfN3-12" value="Challenger Record" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
           <mxGeometry x="610" y="370" width="160" height="20" as="geometry" />
@@ -2880,6 +2880,12 @@
         </mxCell>
         <mxCell id="wzvgIdQ_RYPP_FSqdfN3-17" value="Total Games Won" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
           <mxGeometry x="610" y="530" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wzvgIdQ_RYPP_FSqdfN3-18" value="FDR Progression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
+          <mxGeometry x="280" y="600" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzvgIdQ_RYPP_FSqdfN3-19" value="Rank Progression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
+          <mxGeometry x="280" y="720" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
