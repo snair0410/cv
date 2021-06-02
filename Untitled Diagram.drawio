@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T13:21:56.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4xcsUhzDN6A877AIdILW" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-02T14:05:08.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NLSgffPG9x_C_K0rAa3y" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2914,6 +2914,18 @@
         </mxCell>
         <mxCell id="wzvgIdQ_RYPP_FSqdfN3-19" value="Rank Progression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
           <mxGeometry x="283.5" y="1220" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrTMDX0VkfBPMLFScATK-0" value="Dropdown" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
+          <mxGeometry x="83.5" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3OY7ftfzZVK4X5MkGM-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6bhI_Y4QH60V3cCzQBZ3-2" source="BwbdLgYa5zrMpK1JoA1C-0" target="nRQe-YMjt1ys5DJR1MS3-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwbdLgYa5zrMpK1JoA1C-0" value="Tournament Edition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
+          <mxGeometry x="370" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nRQe-YMjt1ys5DJR1MS3-0" value="Selects one Edition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-2">
+          <mxGeometry x="680" y="120" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IiRYq4ls93ubYOfFJcg4-0" value="Open Modal with graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-1">
           <mxGeometry x="965" y="1135" width="120" height="60" as="geometry" />
