@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T13:15:26.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="idtbkYpELPjFJ3HqgJSp" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-02T13:21:56.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4xcsUhzDN6A877AIdILW" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2790,13 +2790,41 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_AgCWbHkvBRCBy3CCUl-52" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="2660" y="3090" width="90" height="20" as="geometry" />
+          <mxGeometry x="3000" y="3090" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t_AgCWbHkvBRCBy3CCUl-53" value="GSM Stats Page" style="swimlane;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="2740" y="3010" width="200" height="200" as="geometry" />
+          <mxGeometry x="3080" y="3010" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="t_AgCWbHkvBRCBy3CCUl-54" value="Please refer 01 on page 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="2755" y="3100" width="150" height="20" as="geometry" />
+        <mxCell id="t_AgCWbHkvBRCBy3CCUl-54" value="Please refer 01 on page 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="t_AgCWbHkvBRCBy3CCUl-53">
+          <mxGeometry x="25" y="60" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-0" value="Retrieve tournament list from MatchRegister" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="2740" y="3005.5" width="100" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-1" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="2745" y="3130" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-2" value="Queries" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="2690" y="3060" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2840" y="3064" as="sourcePoint" />
+            <mxPoint x="2890" y="3064" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="3064.5" />
+              <mxPoint x="2860" y="3064.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="YMrE2L8pEYuZaEyrfmaU-4" target="t_AgCWbHkvBRCBy3CCUl-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-4" value="The list of the tournaments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="2890" y="3044.5" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="YMrE2L8pEYuZaEyrfmaU-5" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="2945" y="3016.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
