@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T14:22:52.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H0z2FFjK9REGyB0IyiQ-" version="14.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-03T15:47:53.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0VtGia5EUNAcW85597Ci" version="14.7.2" type="github" pages="4">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3960,18 +3960,6 @@
         </mxCell>
         <mxCell id="-VWzF8-w61R7U33QAm6J-6" value="Tournament DB&lt;br&gt;1) Tournament Name - String&lt;br&gt;2) Tournament Format - Team / Individual.&lt;br&gt;If Individual:-&lt;br&gt;3) Number of Players.&lt;br&gt;4) Number Of Groups.&amp;nbsp;&lt;br&gt;5) Number Of Weeks.&lt;br&gt;6) Matches (to be stored in full match register DB)&lt;br&gt;If Team:-&lt;br&gt;3) Number of players.&amp;nbsp;&lt;br&gt;4) Number of teams.&amp;nbsp;&lt;br&gt;5)Number Of Weeks.&lt;br&gt;6) Matches.&lt;br&gt;7) Tournament Active?&lt;br&gt;8) Auction (Yes/No)&lt;br&gt;9) Scheduling Logic(Simple Group / Seed vs Seed / Player vs Full Team Handicap / Player vs Full Team Non Handicap/&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-1">
           <mxGeometry x="600" y="-4640" width="680" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="jRlAXj7wZc6zaVCCwBeD-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="-VWzF8-w61R7U33QAm6J-1" source="-VWzF8-w61R7U33QAm6J-4" target="-VWzF8-w61R7U33QAm6J-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jRlAXj7wZc6zaVCCwBeD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-VWzF8-w61R7U33QAm6J-1" source="-VWzF8-w61R7U33QAm6J-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="-4115" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="-4410" />
-              <mxPoint x="120" y="-4410" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jRlAXj7wZc6zaVCCwBeD-2" value="Member Database&lt;br&gt;Member Personal Information&lt;br&gt;1) First Name&lt;br&gt;2)Second Name&lt;br&gt;3) Email ID&lt;br&gt;4) Member Active&lt;br&gt;5) MemberPassword&lt;br&gt;6)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-1">
           <mxGeometry x="30" y="-4120" width="350" height="250" as="geometry" />
