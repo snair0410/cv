@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T16:42:09.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="r3_-rgj5Y27Fu8L4Wywz" version="14.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-03T16:46:48.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="v8YpW1KUi8nQgPicf9Wo" version="14.7.2" type="github" pages="4">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4016,6 +4016,9 @@
         </mxCell>
         <mxCell id="F1zcxSbLn_3L4twFz3V9-16" value="Add players to tournament DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
           <mxGeometry x="330" y="140" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F1zcxSbLn_3L4twFz3V9-17" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
+          <mxGeometry x="490" y="30" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
