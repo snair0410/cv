@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T07:31:18.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wwp9HVmPsAbvnzzrP9rc" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T07:36:54.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HVuxjIiG4Am0B3J8OjSn" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2577,14 +2577,14 @@
         <mxCell id="9a8p43d0Ise3F0LlEV-w-6" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1725" y="820" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-44" value="Open Modal. Show Active Week. Option to select multiple options" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-44" value="Open Modal. Show Active Week. Option to select multiple options. Also mark as unavailable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1306.5" y="600" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WHkxhcLicbcfGL3rP6kz-0" source="Vamj3fBQL3oFNuuVlMcG-45" target="Vamj3fBQL3oFNuuVlMcG-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-45" value="Submit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
-          <mxGeometry x="1374" y="675" width="46" height="20" as="geometry" />
+          <mxGeometry x="1374" y="680" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-46" value="Cancel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1321" y="680" width="40" height="20" as="geometry" />
@@ -2604,6 +2604,9 @@
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-52" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1525" y="660" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WHkxhcLicbcfGL3rP6kz-0" source="Vamj3fBQL3oFNuuVlMcG-53" target="Vamj3fBQL3oFNuuVlMcG-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-53" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1701" y="610.25" width="100" height="59.5" as="geometry" />
         </mxCell>
@@ -2612,6 +2615,24 @@
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-56" value="to be displayed only every Monday, reminder on wednesday and then friday morning." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="1289" y="280" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WHkxhcLicbcfGL3rP6kz-0" source="Vamj3fBQL3oFNuuVlMcG-58" target="Vamj3fBQL3oFNuuVlMcG-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-58" value="Weekend schedule flag set to Y" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="1850" y="622" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-60" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="1780" y="669.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-61" value="Change Enter weekend to change Slots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="2000" y="622" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-63" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="1880" y="660" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-64" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="2040" y="660" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="WHkxhcLicbcfGL3rP6kz-48" target="v46GxL57UnmOsNfW0f8K-5">
           <mxGeometry relative="1" as="geometry" />
