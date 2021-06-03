@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T11:54:37.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8vcFtgV4UZw3K1IjixAj" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T13:07:32.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="248gE-1J_QEKP3RccZSw" version="14.7.2" type="github" pages="4">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3940,6 +3940,23 @@
         </mxCell>
         <mxCell id="Av9I36yX6_LaWmCfEole-9" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6bhI_Y4QH60V3cCzQBZ3-1">
           <mxGeometry x="1742.5" y="290" width="75" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MhhpQREfKouiLC6VX_fh" name="Admin Flow">
+    <mxGraphModel dx="946" dy="5295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="-VWzF8-w61R7U33QAm6J-0" />
+        <mxCell id="-VWzF8-w61R7U33QAm6J-1" parent="-VWzF8-w61R7U33QAm6J-0" />
+        <mxCell id="-VWzF8-w61R7U33QAm6J-2" value="Vertical Container" style="swimlane;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-1">
+          <mxGeometry x="60" y="-1860" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-VWzF8-w61R7U33QAm6J-3" value="Admin Page" style="swimlane;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-1">
+          <mxGeometry x="40" y="-4640" width="480" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-VWzF8-w61R7U33QAm6J-4" value="Create Tournament" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-3">
+          <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
