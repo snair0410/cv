@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T02:29:25.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="s_-mOeVQtYD6SR8vkgh7" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T02:30:35.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="3liLmI1MMODMupIs0Zio" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -976,7 +976,7 @@
         <mxCell id="Bx13AfeXELvHfdjOSMqN-413" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3330" y="3716" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bx13AfeXELvHfdjOSMqN-420" value="Middleware &amp;amp; DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Bx13AfeXELvHfdjOSMqN-420" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3845" y="3078" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bx13AfeXELvHfdjOSMqN-421" value="Past Tournaments" style="swimlane;" parent="1" vertex="1">
