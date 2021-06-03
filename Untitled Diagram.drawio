@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T02:30:35.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="3liLmI1MMODMupIs0Zio" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T02:31:25.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Z7nbpZMNxgJjK-NUyWc6" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3163,6 +3163,48 @@
         </mxCell>
         <mxCell id="VJ1ltBzFekEG7OIR5cMV-10" value="Pics Carousel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJ1ltBzFekEG7OIR5cMV-0">
           <mxGeometry x="9" y="440" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--0" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="3925" y="3242.75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--1" value="Past Tournaments" style="swimlane;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="3920" y="3282.75" width="520" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="9" y="30" width="501" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--3" value="Logo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="20" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--4" value="Welcome Guest First Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="50" y="50" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--5" value="Become a Member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="190" y="50" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--6" value="Logout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="400" y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--7" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="310" y="50" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--8" value="Team &amp;amp; Players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="9.5" y="200" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--9" value="Format&amp;nbsp;&lt;br&gt;Date&amp;nbsp;&lt;br&gt;Total Number Of Players" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="320" y="90" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--10" value="Team Owners if available / No Team Owners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="9" y="300" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--11" value="Top 3 team winners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="9" y="410" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--12" value="Pics Carousel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="9.5" y="640" width="501" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUYYSyDkSAJ6F6ETt3w--13" value="Stats Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xUYYSyDkSAJ6F6ETt3w--1">
+          <mxGeometry x="9.5" y="530" width="501" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
