@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T09:01:30.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UCmfVVZjHUgCxKuoPtYc" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T11:50:58.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Ml7PX-NXQk-2EzYfTEFG" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2634,6 +2634,9 @@
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-64" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
           <mxGeometry x="2040" y="660" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-115" value="Upcoming Match&amp;nbsp;&lt;br&gt;Opponent Name&amp;nbsp;&lt;br&gt;Time&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WHkxhcLicbcfGL3rP6kz-0">
+          <mxGeometry x="1090" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="WHkxhcLicbcfGL3rP6kz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="WHkxhcLicbcfGL3rP6kz-48" target="v46GxL57UnmOsNfW0f8K-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3558,8 +3561,8 @@
             <mxPoint x="1651" y="3450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-65" value="1) All logic for matching weekend slots will have to be built separately on node. To be done later. Based on how the tournament is setup.&lt;br&gt;2) Auction module will have to be build separately." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="3800" y="2760" width="400" height="130" as="geometry" />
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-65" value="1) All logic for matching weekend slots will have to be built separately on node. To be done later. Based on how the tournament is setup.&lt;br&gt;2) Upcoming match will only be built after this logic is made&lt;br&gt;3) Auction module will have to be build separately." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="3120" y="2750" width="400" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="Vamj3fBQL3oFNuuVlMcG-33" target="Vamj3fBQL3oFNuuVlMcG-69">
           <mxGeometry relative="1" as="geometry">
@@ -3610,7 +3613,7 @@
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="Vamj3fBQL3oFNuuVlMcG-80" target="Vamj3fBQL3oFNuuVlMcG-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-80" value="returns name, memberID, pic and rank of 10 ranks above" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-80" value="returns name, memberID, pic, cantbechallengedflag and rank of 10 ranks above" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
           <mxGeometry x="160" y="4080" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-82" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
@@ -3632,7 +3635,7 @@
           <mxGeometry x="49" y="4090" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-88" value="Challenger List" style="swimlane;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="130" y="4220" width="353" height="279" as="geometry" />
+          <mxGeometry x="130" y="4220" width="360" height="279" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Vamj3fBQL3oFNuuVlMcG-88">
           <mxGeometry x="8" y="34.5" width="285" height="210" as="geometry" />
@@ -3684,17 +3687,25 @@
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-105" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
           <mxGeometry x="718.5" y="4410" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="Vamj3fBQL3oFNuuVlMcG-106" target="Vamj3fBQL3oFNuuVlMcG-109">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="Vamj3fBQL3oFNuuVlMcG-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="4446.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-106" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="880" y="4413" width="60" height="80" as="geometry" />
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-106" value="Match&lt;br&gt;Register DB- status created" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="880" y="4400" width="120" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-108" value="queries" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-108" value="Updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
           <mxGeometry x="826.5" y="4473" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-109" value="check if cant be challenged is Y" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
-          <mxGeometry x="980" y="4413" width="80" height="80" as="geometry" />
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-111" value="will be disabled if cant be challenged is more than 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="520" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="Vamj3fBQL3oFNuuVlMcG-95" target="Vamj3fBQL3oFNuuVlMcG-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-114" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="1020" y="4453" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
