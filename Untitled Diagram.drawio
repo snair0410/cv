@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T07:36:54.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HVuxjIiG4Am0B3J8OjSn" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T07:40:54.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7t4faqnXANHwTPj0aQTU" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1459,7 +1459,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="A2hNUWASEtW-0MxICmpc" name="GSM Member - Tournament View">
+  <diagram id="A2hNUWASEtW-0MxICmpc" name="GSM Member ">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="EJO0JAs3iDqGtJBOiGf0-0" />
@@ -3557,6 +3557,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1651" y="3450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-65" value="1) All logic for matching weekend slots will have to be built separately on node. To be done later. Based on how the tournament is setup.&lt;br&gt;2)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="3800" y="2760" width="400" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
