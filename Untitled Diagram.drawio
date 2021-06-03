@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T16:46:48.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="v8YpW1KUi8nQgPicf9Wo" version="14.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-03T16:50:34.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RnWmQkHSoqU8qXGa49Qf" version="14.7.2" type="github" pages="4">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3973,7 +3973,7 @@
         <mxCell id="F1zcxSbLn_3L4twFz3V9-13" value="Enter Score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-3">
           <mxGeometry x="40" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F1zcxSbLn_3L4twFz3V9-14" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-3">
+        <mxCell id="F1zcxSbLn_3L4twFz3V9-14" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-3">
           <mxGeometry y="140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jRlAXj7wZc6zaVCCwBeD-2" value="Member Database&lt;br&gt;Member Personal Information&lt;br&gt;1) First Name&lt;br&gt;2)Second Name&lt;br&gt;3) Email ID&lt;br&gt;4) Member Active&lt;br&gt;5) MemberPassword&lt;br&gt;6)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-VWzF8-w61R7U33QAm6J-1">
@@ -4017,8 +4017,17 @@
         <mxCell id="F1zcxSbLn_3L4twFz3V9-16" value="Add players to tournament DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
           <mxGeometry x="330" y="140" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F1zcxSbLn_3L4twFz3V9-17" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
+        <mxCell id="F1zcxSbLn_3L4twFz3V9-17" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
           <mxGeometry x="490" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6InUtOtNZtVS47y01yKE-0" value="Create Matches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
+          <mxGeometry x="480" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6InUtOtNZtVS47y01yKE-1" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
+          <mxGeometry x="520" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6InUtOtNZtVS47y01yKE-2" value="Add matches to match register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F1zcxSbLn_3L4twFz3V9-3">
+          <mxGeometry x="430" y="230" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
