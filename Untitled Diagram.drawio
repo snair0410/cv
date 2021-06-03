@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T11:53:12.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="_iehlLrf1SDuh0cjjZQc" version="14.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T11:54:37.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8vcFtgV4UZw3K1IjixAj" version="14.7.2" type="github" pages="3">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3561,7 +3561,7 @@
             <mxPoint x="1651" y="3450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vamj3fBQL3oFNuuVlMcG-65" value="1) All logic for matching weekend slots will have to be built separately on node. To be done later. Based on how the tournament is setup.&lt;br&gt;2) Upcoming match will only be built after this logic is made&lt;br&gt;3) Auction module will have to be build separately.&lt;br&gt;4) For challenger just build till front end . the workflow logic can be built post that." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+        <mxCell id="Vamj3fBQL3oFNuuVlMcG-65" value="1) All logic for matching weekend slots will have to be built separately on node. To be done later. Based on how the tournament is setup.&lt;br&gt;2) Upcoming match will only be built after this logic is made including the list of weekend matches&lt;br&gt;3) Auction module will have to be build separately.&lt;br&gt;4) For challenger just build till front end . the workflow logic can be built post that.&lt;br&gt;5) once 2 is complete, we can build the live chat module for every game week" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
           <mxGeometry x="3120" y="2750" width="400" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="Vamj3fBQL3oFNuuVlMcG-33" target="Vamj3fBQL3oFNuuVlMcG-69">
