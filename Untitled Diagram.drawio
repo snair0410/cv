@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T15:47:53.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0VtGia5EUNAcW85597Ci" version="14.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-03T15:51:28.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Vs8JFXuxG306jmx4gM7h" version="14.7.2" type="github" pages="4">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1934,6 +1934,9 @@
         <mxCell id="cvozDJThuYwO7cL454n2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="EJO0JAs3iDqGtJBOiGf0-1" source="cvozDJThuYwO7cL454n2-16" target="cvozDJThuYwO7cL454n2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="S5GVoTYz7cqfrcHAjFtS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EJO0JAs3iDqGtJBOiGf0-1" source="cvozDJThuYwO7cL454n2-16" target="S5GVoTYz7cqfrcHAjFtS-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cvozDJThuYwO7cL454n2-16" value="store in Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="EJO0JAs3iDqGtJBOiGf0-1" vertex="1">
           <mxGeometry x="893.5" y="1490" width="60" height="110" as="geometry" />
         </mxCell>
@@ -3706,6 +3709,9 @@
         </mxCell>
         <mxCell id="Vamj3fBQL3oFNuuVlMcG-114" value="returns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
           <mxGeometry x="1020" y="4453" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GVoTYz7cqfrcHAjFtS-0" value="Flash Message asking user to verify with admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EJO0JAs3iDqGtJBOiGf0-1">
+          <mxGeometry x="1030" y="1523" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
