@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T10:37:06.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="h1Ix2C9oPsGMxLwphWrK" version="14.7.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-04T10:39:20.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="p1q4hmaAglsZnOJ2xDVE" version="14.7.2" type="github" pages="6">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4057,9 +4057,6 @@
         </mxCell>
         <mxCell id="Ee2s80_0sDevtoeqEnwb-2" value="Create a Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-2">
           <mxGeometry x="110" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ee2s80_0sDevtoeqEnwb-3" value="Deactivate/Activate&lt;br&gt;Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-2">
-          <mxGeometry x="110" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TlRCDuwmxUmtLDGhIzo-0" value="Create Tournament" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-2">
           <mxGeometry x="430" y="110" width="120" height="40" as="geometry" />
