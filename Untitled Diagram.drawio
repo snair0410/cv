@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T10:24:35.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="i9SrpiWaqizRodZoA5eQ" version="14.7.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-04T10:37:06.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="h1Ix2C9oPsGMxLwphWrK" version="14.7.2" type="github" pages="6">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4836,6 +4836,17 @@
         </mxCell>
         <mxCell id="93T2FDl30q42teH3LGvz-12" value="Member DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-1">
           <mxGeometry x="590" y="600" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5Nskp5dRPz4WE_d74a3t" name="What is pending">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="X6iykCdWBarjpif5mesv-0" />
+        <mxCell id="X6iykCdWBarjpif5mesv-1" parent="X6iykCdWBarjpif5mesv-0" />
+        <mxCell id="X6iykCdWBarjpif5mesv-2" value="1) Social Media&amp;nbsp;&lt;br&gt;2) Online Chat.&lt;br&gt;3) For challenger just build till front end . the workflow logic can be built post that.&lt;br&gt;4) Weekend slots logic to be added last. Matches to be displayed post that and live char module along with it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="X6iykCdWBarjpif5mesv-1">
+          <mxGeometry x="120" y="40" width="690" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
