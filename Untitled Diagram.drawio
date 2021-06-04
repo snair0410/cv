@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T07:20:22.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="W394WRW814QgImeTg6_w" version="14.7.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-04T07:27:28.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0hyE1JztA-Z0kIMMCLV8" version="14.7.2" type="github" pages="5">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4321,6 +4321,16 @@
             <mxPoint x="1800" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PwlHPHy0IDCF6SGBiFcJ-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zji2zst6LdJ1rsAbdNN6-1" source="PwlHPHy0IDCF6SGBiFcJ-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1685" y="1350" />
+              <mxPoint x="1580" y="1350" />
+              <mxPoint x="1580" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PwlHPHy0IDCF6SGBiFcJ-77" value="if format is individual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-1">
           <mxGeometry x="1645" y="1200" width="80" height="80" as="geometry" />
         </mxCell>
@@ -4580,6 +4590,12 @@
               <mxPoint x="2310" y="1480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PwlHPHy0IDCF6SGBiFcJ-159" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-1">
+          <mxGeometry x="1590" y="1380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PwlHPHy0IDCF6SGBiFcJ-160" value="Flow can be same as individual. Except when adding players need seed level also &amp;amp; team owner also &amp;amp; team name change also" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zji2zst6LdJ1rsAbdNN6-1">
+          <mxGeometry x="1370" y="1600" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
