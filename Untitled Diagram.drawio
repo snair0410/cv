@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T10:39:20.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="p1q4hmaAglsZnOJ2xDVE" version="14.7.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-05T13:54:50.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Oo7r59xx3RMsWIPqRt5w" version="14.7.2" type="github" pages="7">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4844,6 +4844,37 @@
         <mxCell id="X6iykCdWBarjpif5mesv-1" parent="X6iykCdWBarjpif5mesv-0" />
         <mxCell id="X6iykCdWBarjpif5mesv-2" value="1) Social Media&amp;nbsp;&lt;br&gt;2) Online Chat.&lt;br&gt;3) For challenger just build till front end . the workflow logic can be built post that.&lt;br&gt;4) Weekend slots logic to be added last. Matches to be displayed post that and live char module along with it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="X6iykCdWBarjpif5mesv-1">
           <mxGeometry x="120" y="40" width="690" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S9wL8yEO_nQ_WJfw7PN2" name="form validation - refresh">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-0" />
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-1" parent="6zrfb_haLFFWOt4kmGzM-0" />
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1" source="6zrfb_haLFFWOt4kmGzM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-2" value="Auth&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="380" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1" source="6zrfb_haLFFWOt4kmGzM-4" target="6zrfb_haLFFWOt4kmGzM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-4" value="set isLoginMode=true &amp;amp; setIsLoginMode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1" source="6zrfb_haLFFWOt4kmGzM-5" target="6zrfb_haLFFWOt4kmGzM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-5" value="call HTTPClient custom hook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zrfb_haLFFWOt4kmGzM-7" value="call useForm custom hook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
