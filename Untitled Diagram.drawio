@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T01:50:17.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="p3Vflw5zG2ekPl0ido1C" version="14.8.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-14T07:56:47.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="cm2j0sZDkKolpM_V_JQ8" version="14.8.6" type="github" pages="7">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4842,7 +4842,7 @@
       <root>
         <mxCell id="X6iykCdWBarjpif5mesv-0" />
         <mxCell id="X6iykCdWBarjpif5mesv-1" parent="X6iykCdWBarjpif5mesv-0" />
-        <mxCell id="X6iykCdWBarjpif5mesv-2" value="1) Social Media&amp;nbsp;&lt;br&gt;2) Online Chat.&lt;br&gt;3) For challenger just build till front end . the workflow logic can be built post that.&lt;br&gt;4) Weekend slots logic to be added last. Matches to be displayed post that and live char module along with it" style="rounded=1;whiteSpace=wrap;html=1;" parent="X6iykCdWBarjpif5mesv-1" vertex="1">
+        <mxCell id="X6iykCdWBarjpif5mesv-2" value="1) Social Media&amp;nbsp;&lt;br&gt;2) Online Chat.&lt;br&gt;3) For challenger just build till front end . the workflow logic can be built post that.&lt;br&gt;4) Weekend slots logic to be added last. Matches to be displayed post that and live char module along with it&lt;br&gt;5) finally the footer" style="rounded=1;whiteSpace=wrap;html=1;" parent="X6iykCdWBarjpif5mesv-1" vertex="1">
           <mxGeometry x="120" y="40" width="690" height="280" as="geometry" />
         </mxCell>
       </root>
