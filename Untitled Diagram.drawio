@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T16:55:34.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="DgUNHxPw8OWH2Rh2TPf3" version="14.8.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-22T23:45:32.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PKTVyj1e4Y_Mdvp4hcmN" version="14.8.6" type="github" pages="7">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4848,33 +4848,53 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="S9wL8yEO_nQ_WJfw7PN2" name="form validation - refresh">
+  <diagram id="S9wL8yEO_nQ_WJfw7PN2" name="player dashboard">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="6zrfb_haLFFWOt4kmGzM-0" />
         <mxCell id="6zrfb_haLFFWOt4kmGzM-1" parent="6zrfb_haLFFWOt4kmGzM-0" />
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" source="6zrfb_haLFFWOt4kmGzM-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="60" as="targetPoint" />
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-0" value="Vertical Container" style="swimlane;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="80" y="40" width="840" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-2" value="Keep the nav links the same" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry x="360" y="50" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-5" value="Players u can challenge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-6" value="Challenges Issued" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-7" value="Challenges Received" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-8" value="Challenges History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-10" value="Enter Challenge Score" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jat2UDw-2iw5uKQsXMlw-1" value="FDR Progression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-1" value="" style="endArrow=none;html=1;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+            <mxPoint x="920" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-2" value="Playeradminconsole" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
-          <mxGeometry x="380" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-4" value="" style="endArrow=none;html=1;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="600" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" source="6zrfb_haLFFWOt4kmGzM-4" target="6zrfb_haLFFWOt4kmGzM-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gD68y9B6bL5JlRZ2LOV3-9" value="Upcoming Matches" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="80" y="450" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-4" value="sendRequest" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
-          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="6zrfb_haLFFWOt4kmGzM-1" source="6zrfb_haLFFWOt4kmGzM-5" target="6zrfb_haLFFWOt4kmGzM-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-5" value="call formhook custom hook" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6zrfb_haLFFWOt4kmGzM-7" value="pass initial state for all 4 text fields" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
-          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="Jat2UDw-2iw5uKQsXMlw-0" value="Rank Progression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+          <mxGeometry x="80" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
