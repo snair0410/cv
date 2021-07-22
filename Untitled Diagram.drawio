@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T23:45:32.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PKTVyj1e4Y_Mdvp4hcmN" version="14.8.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-22T23:47:30.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="poG_0hSnM_CaLlt6pG7o" version="14.8.6" type="github" pages="7">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4854,7 +4854,7 @@
         <mxCell id="6zrfb_haLFFWOt4kmGzM-0" />
         <mxCell id="6zrfb_haLFFWOt4kmGzM-1" parent="6zrfb_haLFFWOt4kmGzM-0" />
         <mxCell id="gD68y9B6bL5JlRZ2LOV3-0" value="Vertical Container" style="swimlane;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
-          <mxGeometry x="80" y="40" width="840" height="560" as="geometry" />
+          <mxGeometry x="80" y="40" width="840" height="680" as="geometry" />
         </mxCell>
         <mxCell id="gD68y9B6bL5JlRZ2LOV3-2" value="Keep the nav links the same" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
           <mxGeometry x="360" y="50" width="120" height="20" as="geometry" />
@@ -4877,6 +4877,9 @@
         <mxCell id="Jat2UDw-2iw5uKQsXMlw-1" value="FDR Progression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
           <mxGeometry y="520" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Gx3DjE9jGL1RLeDJNySA-0" value="Enter Weekend Slots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gD68y9B6bL5JlRZ2LOV3-0">
+          <mxGeometry y="580" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="gD68y9B6bL5JlRZ2LOV3-1" value="" style="endArrow=none;html=1;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="120" as="sourcePoint" />
@@ -4885,7 +4888,7 @@
         </mxCell>
         <mxCell id="gD68y9B6bL5JlRZ2LOV3-4" value="" style="endArrow=none;html=1;" edge="1" parent="6zrfb_haLFFWOt4kmGzM-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="600" as="sourcePoint" />
+            <mxPoint x="200" y="710" as="sourcePoint" />
             <mxPoint x="200" y="120" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
