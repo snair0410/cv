@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T15:42:21.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ZI8FdFiVvQPYelzGkfWJ" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T15:46:57.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Rv2gVPuFElfQBJ7b4R7h" version="14.9.0" type="github">
   <diagram id="t_pfkMMw9ImWITFRbHx0" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         </mxCell>
         <mxCell id="KdPT6xXTrqS5TgmWjYQf-17" value="Is Sandy able to build react dashboard like features? Decision Point.&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2240" y="390" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KdPT6xXTrqS5TgmWjYQf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KdPT6xXTrqS5TgmWjYQf-18" target="KdPT6xXTrqS5TgmWjYQf-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdPT6xXTrqS5TgmWjYQf-18" value="Hire external tech team only for React" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2520" y="415" width="200" height="120" as="geometry" />
