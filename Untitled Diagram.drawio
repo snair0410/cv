@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T10:43:19.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="M1J7Xqwq7IbZiWMlfv_x" version="14.9.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T10:02:15.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="_wEMyow-Dx0Gs793oAaj" version="15.0.3" type="github" pages="8">
   <diagram id="JOsgbX38XLbBY9DrWCiV" name="nonGSM member User Flow">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1460,7 +1460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A2hNUWASEtW-0MxICmpc" name="GSM Member ">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="EJO0JAs3iDqGtJBOiGf0-0" />
         <mxCell id="EJO0JAs3iDqGtJBOiGf0-1" parent="EJO0JAs3iDqGtJBOiGf0-0" />
@@ -3720,7 +3720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vJsSFkjCNgTxmu6SIPkB" name="Page-3">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="6bhI_Y4QH60V3cCzQBZ3-0" />
         <mxCell id="6bhI_Y4QH60V3cCzQBZ3-1" parent="6bhI_Y4QH60V3cCzQBZ3-0" />
@@ -3954,7 +3954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MhhpQREfKouiLC6VX_fh" name="Admin Flow">
-    <mxGraphModel dx="946" dy="5295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="5327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="-VWzF8-w61R7U33QAm6J-0" />
         <mxCell id="-VWzF8-w61R7U33QAm6J-1" parent="-VWzF8-w61R7U33QAm6J-0" />
@@ -4042,7 +4042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-Ls0Z54271sDk-F7-qQb" name="Admin Flow Details">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="zji2zst6LdJ1rsAbdNN6-0" />
         <mxCell id="zji2zst6LdJ1rsAbdNN6-1" parent="zji2zst6LdJ1rsAbdNN6-0" />
@@ -4838,7 +4838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Nskp5dRPz4WE_d74a3t" name="What is pending">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="X6iykCdWBarjpif5mesv-0" />
         <mxCell id="X6iykCdWBarjpif5mesv-1" parent="X6iykCdWBarjpif5mesv-0" />
@@ -4849,7 +4849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S9wL8yEO_nQ_WJfw7PN2" name="player dashboard">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="6zrfb_haLFFWOt4kmGzM-0" />
         <mxCell id="6zrfb_haLFFWOt4kmGzM-1" parent="6zrfb_haLFFWOt4kmGzM-0" />
@@ -4905,21 +4905,29 @@
         <mxCell id="bmj8cR1_eLB6d7WIkXOY-0" value="1) Create challenge button on the challenge card.&amp;nbsp;&lt;br&gt;2) open modal, with Whom, Where, When, Time, month, format and year and Submit button&lt;br&gt;3) on submit create an entry in the match register&lt;br&gt;4) the saved entry should also be displayed in the received challenges and sent challenges.&lt;br&gt;5) Notification to pop up in the respective nav link header.&amp;nbsp;&lt;br&gt;6) the receiving player should be able to accept, or reject the challenge.&amp;nbsp;&lt;br&gt;7) On reject the entry should move to the Challenges History section and db should be updated&lt;br&gt;8) On accept the entry should be reflected as accepted in the db.&lt;br&gt;9) Once match is accepted the match should be in the upcoming matches section.&amp;nbsp;&lt;br&gt;10) clear message below the match that either player can cancel the match 34 hours before the match play. Else half of 2-0 points will be allocated to the opponent. On canceling match , reason for cancellation should be asked. Once cancellation is done, entry made in the db and notfocation to the challenge history component.&amp;nbsp;&lt;br&gt;11)once the plus 1 day is crossed, notification to the enter score area. asking sending player to enter the score.&amp;nbsp;&lt;br&gt;12) And the match should also come in this section.&amp;nbsp;&lt;br&gt;13) on enter score button press form to update score. on submitting, match notification to admin that score has been received for updation. Admin to check with both players on the score and if applicable. make score entry from admin section.&amp;nbsp;&lt;br&gt;14) all challenge related data to be disabled if tournament is active.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;After 14 steps see if watsapp integration can be done" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
           <mxGeometry x="200" y="760" width="720" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="ekVXhSDnDda70oQJ3S4o-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1) both players should be able to cancel challenge till 4 hours before the match time.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2) if its within the 4 hour window period then message showing that match cannot be cancelled.&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3) the other button here should be enter score.&amp;nbsp;&lt;br&gt;&lt;/span&gt;4) a day after the match date the challenging player should be sent a notification to enter the score&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;5) on entering score scor form should open. . 2 buttons on the form, cancel and submit.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;6) On submit the match should go to the opponent for approval.&lt;br&gt;7) opponent can approve or reject. if approved score gets entered in to db and status changes to completed.&lt;br&gt;8) if rejected, match should remain in upcoming matches section with the reason for rejection&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+        <mxCell id="ekVXhSDnDda70oQJ3S4o-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1) both players should be able to cancel challenge till 4 hours before the match time.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2) if its within the 4 hour window period then message showing that match cannot be cancelled.&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3) the other button here should be enter score.&amp;nbsp;&lt;br&gt;&lt;/span&gt;4) a day after the match date the challenging player should be sent a notification to enter the score&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;5) on entering score scor form should open. . 2 buttons on the form, cancel and submit.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;6) On submit the match should go to the opponent for approval.&lt;br&gt;7) opponent can approve or reject. if approved score gets entered in to db and status changes to completed.&lt;br&gt;8) if rejected, match should remain in upcoming matches section with the reason for rejection&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
           <mxGeometry x="200" y="1240" width="720" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ekVXhSDnDda70oQJ3S4o-1" value="For upcoming matches challenges" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+        <mxCell id="ekVXhSDnDda70oQJ3S4o-1" value="For upcoming matches challenges" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
           <mxGeometry x="480" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ekVXhSDnDda70oQJ3S4o-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1) make old chalenge matches have month and year, match completed, challengematchflag and challengestatus&lt;br&gt;2) pull the card with relevant details as always.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+        <mxCell id="ekVXhSDnDda70oQJ3S4o-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1) make old chalenge matches have month and year, match completed, challengematchflag and challengestatus&lt;br&gt;2) pull the card with relevant details as always.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
           <mxGeometry x="200" y="1440" width="720" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ekVXhSDnDda70oQJ3S4o-4" value="For received challenge matches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+        <mxCell id="ekVXhSDnDda70oQJ3S4o-4" value="For received challenge matches" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
           <mxGeometry x="480" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ekVXhSDnDda70oQJ3S4o-5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1) after the above 2 move to the limits logic and then to the tournament section&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6zrfb_haLFFWOt4kmGzM-1">
+        <mxCell id="ekVXhSDnDda70oQJ3S4o-5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1) after the above 2 move to the limits logic and then to the tournament section&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="6zrfb_haLFFWOt4kmGzM-1" vertex="1">
           <mxGeometry x="190" y="1600" width="720" height="140" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AlX117BrJFAcOqzMUjd6" name="Page-8">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="SI9cYvGXxQNXZc-SjPR9-0" />
+        <mxCell id="SI9cYvGXxQNXZc-SjPR9-1" parent="SI9cYvGXxQNXZc-SjPR9-0" />
       </root>
     </mxGraphModel>
   </diagram>
