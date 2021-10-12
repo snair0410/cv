@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T06:58:04.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oaEWKC_SOtUbvGl6Fgqg" version="15.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-12T06:59:02.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="EkQN_MtPRVo2-eNZj5Sl" version="15.5.1" type="github" pages="7">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -225,6 +225,24 @@
       <root>
         <mxCell id="u3h3R5nCQiAI_eNkKUud-0" />
         <mxCell id="u3h3R5nCQiAI_eNkKUud-1" parent="u3h3R5nCQiAI_eNkKUud-0" />
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-0" value="iAngels + Mentors Page" style="swimlane;" vertex="1" parent="u3h3R5nCQiAI_eNkKUud-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-5" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -233,6 +251,24 @@
       <root>
         <mxCell id="iNr6CX4jQe-EWJ8ImQMP-0" />
         <mxCell id="iNr6CX4jQe-EWJ8ImQMP-1" parent="iNr6CX4jQe-EWJ8ImQMP-0" />
+        <mxCell id="D41gxjs7afMyZt40ZaOG-0" value="Co-Working Page" style="swimlane;" vertex="1" parent="iNr6CX4jQe-EWJ8ImQMP-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="D41gxjs7afMyZt40ZaOG-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="D41gxjs7afMyZt40ZaOG-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D41gxjs7afMyZt40ZaOG-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D41gxjs7afMyZt40ZaOG-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D41gxjs7afMyZt40ZaOG-5" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+          <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -241,6 +277,24 @@
       <root>
         <mxCell id="AThTZOZ-P73FwDEiRQMo-0" />
         <mxCell id="AThTZOZ-P73FwDEiRQMo-1" parent="AThTZOZ-P73FwDEiRQMo-0" />
+        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-0" value="Verticals Page" style="swimlane;" vertex="1" parent="AThTZOZ-P73FwDEiRQMo-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-5" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
+          <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
