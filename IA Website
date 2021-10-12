@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:53:05.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="gTQKjOVCjh4FNFglg9Xu" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:54:21.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5GWVYCwLoWYHDPsTrUul" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
         <mxCell id="n4B1NLSrAxNZpaaqF3XH-7" value="Repeat for all startups - 4 in each row" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rt5beygCA7bjeXCQ21IO-0">
           <mxGeometry x="320" y="278" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTEsdDPU4JaNIulLhHt1-0" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E4jkORIxOh96IQi4g_ZZ-1">
+        <mxCell id="KTEsdDPU4JaNIulLhHt1-0" value="Small intro line&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E4jkORIxOh96IQi4g_ZZ-1">
           <mxGeometry x="50" y="120" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n4B1NLSrAxNZpaaqF3XH-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="E4jkORIxOh96IQi4g_ZZ-1">
