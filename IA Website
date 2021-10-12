@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T06:46:29.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="8zRQHwvBEiRF98RoPLb2" version="15.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-12T06:50:03.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="6iGgwxJTm5QgxSneebJ7" version="15.5.1" type="github" pages="4">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -112,7 +112,13 @@
         <mxCell id="KOy7EC-rVWw-TQVlX8Rk-1" value="Link to Page 1 - Accelerator Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
           <mxGeometry x="50" y="460" width="208" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Wt2VBZtclPKuuEcaRHRX-5" value="Products / Programs (Drop Down)&lt;br&gt;1) Startup Accelerator (Link to Page 1 - Accelerator Page)&lt;br&gt;2) Corporate Accelerator&lt;br&gt;3) Campus Accelerator.&lt;br&gt;4) iAngels + Mentors&lt;br&gt;5) Co-Working&lt;br&gt;6) Acceleration Verticals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IubR2TFwY4arWb-yzJnf-1" value="Link to Page 2 - Corporate Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
+          <mxGeometry x="313.5" y="460" width="208" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="52MiSkIrkScJT8ddxYoD-1" value="Link to Page 3 - Campus Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
+          <mxGeometry x="582" y="460" width="208" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt2VBZtclPKuuEcaRHRX-5" value="Products / Programs (Drop Down)&lt;br&gt;1) Startup Accelerator (Link to Page 1 - Accelerator Page)&lt;br&gt;2) Corporate Accelerator (Link to Page 2 - Corporate Page)&lt;br&gt;3) Campus Accelerator (Link to Page 3 - Campus Page).&lt;br&gt;4) iAngels + Mentors&lt;br&gt;5) Co-Working&lt;br&gt;6) Acceleration Verticals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="40" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-6" value="About (Drop Down)&lt;br&gt;1) The Team.&lt;br&gt;2) The Journey&lt;br&gt;3) Contact&lt;br&gt;4) Startup Stories&lt;br&gt;5) FAQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -132,7 +138,7 @@
       <root>
         <mxCell id="06XHyy1wBwmJgBlGx1n9-0" />
         <mxCell id="06XHyy1wBwmJgBlGx1n9-1" parent="06XHyy1wBwmJgBlGx1n9-0" />
-        <mxCell id="hMg2f1UgG-JloY9T48jX-0" value="Accelerator Page" style="swimlane;" vertex="1" parent="06XHyy1wBwmJgBlGx1n9-1">
+        <mxCell id="hMg2f1UgG-JloY9T48jX-0" value="Corporate Page" style="swimlane;" vertex="1" parent="06XHyy1wBwmJgBlGx1n9-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
         <mxCell id="hMg2f1UgG-JloY9T48jX-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
@@ -150,6 +156,40 @@
         <mxCell id="hMg2f1UgG-JloY9T48jX-36" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
           <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aaR2tQSnHDD5WzcFvR_I" name="Corporate Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="jG57kDXBOuxtt8Ksn0aV-0" />
+        <mxCell id="jG57kDXBOuxtt8Ksn0aV-1" parent="jG57kDXBOuxtt8Ksn0aV-0" />
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-0" value="Accelerator Page" style="swimlane;" vertex="1" parent="jG57kDXBOuxtt8Ksn0aV-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-5" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
+          <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1_srmljqpnvQlhk-vLtn" name="Campus Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="SoTOsKELv6NIUm0AVnko-0" />
+        <mxCell id="SoTOsKELv6NIUm0AVnko-1" parent="SoTOsKELv6NIUm0AVnko-0" />
       </root>
     </mxGraphModel>
   </diagram>
