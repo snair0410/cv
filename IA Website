@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T12:36:28.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TWsD7yq1aBUiz1GVYpvI" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T12:38:00.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="l2h6_Mhaaek-24cNcdHl" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
       <root>
         <mxCell id="06XHyy1wBwmJgBlGx1n9-0" />
         <mxCell id="06XHyy1wBwmJgBlGx1n9-1" parent="06XHyy1wBwmJgBlGx1n9-0" />
-        <mxCell id="hMg2f1UgG-JloY9T48jX-0" value="Corporate Page" style="swimlane;" vertex="1" parent="06XHyy1wBwmJgBlGx1n9-1">
+        <mxCell id="hMg2f1UgG-JloY9T48jX-0" value="Accelerator Page" style="swimlane;" vertex="1" parent="06XHyy1wBwmJgBlGx1n9-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
         <mxCell id="hMg2f1UgG-JloY9T48jX-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
@@ -445,7 +445,7 @@
       <root>
         <mxCell id="SftF4G9ilVzepZnKHn0h-0" />
         <mxCell id="SftF4G9ilVzepZnKHn0h-1" parent="SftF4G9ilVzepZnKHn0h-0" />
-        <mxCell id="fVLBUVSG7RfdA00FU5pZ-0" value="Core Team Page" style="swimlane;" vertex="1" parent="SftF4G9ilVzepZnKHn0h-1">
+        <mxCell id="fVLBUVSG7RfdA00FU5pZ-0" value="Contact Page" style="swimlane;" vertex="1" parent="SftF4G9ilVzepZnKHn0h-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
         <mxCell id="fVLBUVSG7RfdA00FU5pZ-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fVLBUVSG7RfdA00FU5pZ-0">
