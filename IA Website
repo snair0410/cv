@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:54:21.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5GWVYCwLoWYHDPsTrUul" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:58:19.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XVP76Eryx0WaMEUF6BrU" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
         <mxCell id="n0_fahL-0TR-fHPgGYDT-0" value="iAngels + Mentors Page" style="swimlane;" vertex="1" parent="u3h3R5nCQiAI_eNkKUud-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="n0_fahL-0TR-fHPgGYDT-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+        <mxCell id="n0_fahL-0TR-fHPgGYDT-1" value="Pic with Small Intro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
           <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n0_fahL-0TR-fHPgGYDT-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
@@ -305,7 +305,7 @@
         <mxCell id="D41gxjs7afMyZt40ZaOG-0" value="Co-Working Page" style="swimlane;" vertex="1" parent="iNr6CX4jQe-EWJ8ImQMP-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="D41gxjs7afMyZt40ZaOG-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+        <mxCell id="D41gxjs7afMyZt40ZaOG-1" value="Pic with small Intro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
           <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D41gxjs7afMyZt40ZaOG-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
@@ -317,8 +317,8 @@
         <mxCell id="D41gxjs7afMyZt40ZaOG-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41gxjs7afMyZt40ZaOG-5" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
-          <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
+        <mxCell id="_9Ie-dd4xcBH5Eevvfnl-6" value="Design to be defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D41gxjs7afMyZt40ZaOG-0">
+          <mxGeometry x="10" y="240" width="780" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
