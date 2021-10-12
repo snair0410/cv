@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:41:52.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="RoFkHdQAguV4ciDjACmS" version="15.5.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:48:28.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="zo_HsYRD81pqlixTfX3z" version="15.5.1" type="github" pages="17">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-40" value="CTA (Know more)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
           <mxGeometry x="627.5" y="690" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wt2VBZtclPKuuEcaRHRX-41" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
+        <mxCell id="Wt2VBZtclPKuuEcaRHRX-41" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy (Link to Page 15 - Privacy Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KOy7EC-rVWw-TQVlX8Rk-1" value="Link to Page 1 - Accelerator Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
@@ -273,7 +273,7 @@
         <mxCell id="AqTRlPSJW-kbHXONf5p--4" value="CTA (See our full list of iAngels)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
           <mxGeometry x="177.5" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AqTRlPSJW-kbHXONf5p--5" value="Link to Page 1 - Accelerator Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+        <mxCell id="AqTRlPSJW-kbHXONf5p--5" value="Link to Page 16 - iAngels Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
           <mxGeometry x="150" y="460" width="208" height="15" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
@@ -291,7 +291,7 @@
         <mxCell id="AqTRlPSJW-kbHXONf5p--10" value="CTA (See our full list of Mentors)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
           <mxGeometry x="497.5" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AqTRlPSJW-kbHXONf5p--11" value="Link to Page 1 - Accelerator Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+        <mxCell id="AqTRlPSJW-kbHXONf5p--11" value="Link to Page 17 - Mentors Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
           <mxGeometry x="470" y="460" width="208" height="15" as="geometry" />
         </mxCell>
       </root>
@@ -582,6 +582,44 @@
         </mxCell>
         <mxCell id="f6foYlNsnY-yn4TSwp5f-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f6foYlNsnY-yn4TSwp5f-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="j1F55RcRWosH-tzFuhQ2" name="iAngels Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="SZGcEEY24irkHJaPQC9q-0" />
+        <mxCell id="SZGcEEY24irkHJaPQC9q-1" parent="SZGcEEY24irkHJaPQC9q-0" />
+        <mxCell id="G8jvZzm7GGMjYxrsdjES-0" value="Privacy Page" style="swimlane;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="G8jvZzm7GGMjYxrsdjES-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G8jvZzm7GGMjYxrsdjES-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G8jvZzm7GGMjYxrsdjES-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G8jvZzm7GGMjYxrsdjES-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-Mtid9pVv_wdPzvCfap-0" value="Repeat for all iAngels - 4 in each row" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
+          <mxGeometry x="450" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xSnvjx7GvlqAC6Wp01U-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+          <mxGeometry x="160" y="280" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2xSnvjx7GvlqAC6Wp01U-1" value="Name Of iAngel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+          <mxGeometry x="217.5" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2xSnvjx7GvlqAC6Wp01U-2" value="Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+          <mxGeometry x="175" y="325" width="205" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2xSnvjx7GvlqAC6Wp01U-3" value="Small write up&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+          <mxGeometry x="175" y="385" width="205" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
