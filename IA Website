@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:49:55.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7fBK6K_HT_VYt7l_pD3n" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:51:07.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ir5nscxCPrI1zF5ITzLu" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -594,7 +594,7 @@
         <mxCell id="G8jvZzm7GGMjYxrsdjES-0" value="iAngels Page" style="swimlane;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="G8jvZzm7GGMjYxrsdjES-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
+        <mxCell id="G8jvZzm7GGMjYxrsdjES-1" value="Small write up about iAngels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
           <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="G8jvZzm7GGMjYxrsdjES-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G8jvZzm7GGMjYxrsdjES-0">
@@ -632,7 +632,7 @@
         <mxCell id="77lm0WCg7Qqqqmpjrfxy-0" value="Mentors Page" style="swimlane;" vertex="1" parent="qzLL2MyhXhsCuP8wDhTz-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="77lm0WCg7Qqqqmpjrfxy-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77lm0WCg7Qqqqmpjrfxy-0">
+        <mxCell id="77lm0WCg7Qqqqmpjrfxy-1" value="Small write up about Mentors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77lm0WCg7Qqqqmpjrfxy-0">
           <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="77lm0WCg7Qqqqmpjrfxy-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77lm0WCg7Qqqqmpjrfxy-0">
