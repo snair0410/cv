@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T07:46:20.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="D-X7OjViP345eBshsM1m" version="15.5.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-10-12T07:48:11.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="i9IbX2XP-qgi_BGTxG5v" version="15.5.1" type="github" pages="16">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
       <root>
         <mxCell id="MzOTdivjn3A9S2VSV4uv-0" />
         <mxCell id="MzOTdivjn3A9S2VSV4uv-1" parent="MzOTdivjn3A9S2VSV4uv-0" />
-        <mxCell id="43WGhtTxhKNmMvKocvQt-0" value="Blog Page" style="swimlane;" vertex="1" parent="MzOTdivjn3A9S2VSV4uv-1">
+        <mxCell id="43WGhtTxhKNmMvKocvQt-0" value="Form Page" style="swimlane;" vertex="1" parent="MzOTdivjn3A9S2VSV4uv-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
         <mxCell id="43WGhtTxhKNmMvKocvQt-1" value="Replicate the current google form and capture information the way it is currently being used.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="43WGhtTxhKNmMvKocvQt-0">
@@ -507,6 +507,29 @@
           <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="43WGhtTxhKNmMvKocvQt-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="43WGhtTxhKNmMvKocvQt-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AyBN5A7wl0MginH6mN41" name="Privacy Policy Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="RH8M2n-F7128KPRyE4fE-0" />
+        <mxCell id="RH8M2n-F7128KPRyE4fE-1" parent="RH8M2n-F7128KPRyE4fE-0" />
+        <mxCell id="f6foYlNsnY-yn4TSwp5f-0" value="Privacy Page" style="swimlane;" vertex="1" parent="RH8M2n-F7128KPRyE4fE-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="f6foYlNsnY-yn4TSwp5f-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f6foYlNsnY-yn4TSwp5f-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f6foYlNsnY-yn4TSwp5f-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f6foYlNsnY-yn4TSwp5f-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6foYlNsnY-yn4TSwp5f-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f6foYlNsnY-yn4TSwp5f-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6foYlNsnY-yn4TSwp5f-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f6foYlNsnY-yn4TSwp5f-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
       </root>
