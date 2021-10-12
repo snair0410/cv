@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T11:37:00.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ugZsNORP24FP_HydPoR3" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T11:55:07.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="wxk7BAQEhVlUsNG0cQX1" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -142,8 +142,8 @@
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-8" value="Apply&lt;br&gt;1) Opens a Form - (Link to Page 14 - Forms Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="40" width="240" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ls6yqWcGYVKh6aiik4z7-2" value="Question on Partners - Is It Required?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="Ls6yqWcGYVKh6aiik4z7-2" value="Question on Partners - Is It Required?&lt;br&gt;Is acceleration vertical required ? Need to check&lt;br&gt;ILabs and Istart - need to check&lt;br&gt;ifunds - need to check" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1020" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -185,7 +185,7 @@
       <root>
         <mxCell id="jG57kDXBOuxtt8Ksn0aV-0" />
         <mxCell id="jG57kDXBOuxtt8Ksn0aV-1" parent="jG57kDXBOuxtt8Ksn0aV-0" />
-        <mxCell id="7IGnGZ4OayyYq66aeqFm-0" value="Accelerator Page" style="swimlane;" vertex="1" parent="jG57kDXBOuxtt8Ksn0aV-1">
+        <mxCell id="7IGnGZ4OayyYq66aeqFm-0" value="Corporate Accelerator Program" style="swimlane;" vertex="1" parent="jG57kDXBOuxtt8Ksn0aV-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
         <mxCell id="7IGnGZ4OayyYq66aeqFm-1" value="Pic with Tag Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
