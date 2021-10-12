@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:51:07.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ir5nscxCPrI1zF5ITzLu" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:53:05.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="gTQKjOVCjh4FNFglg9Xu" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -618,8 +618,11 @@
         <mxCell id="2xSnvjx7GvlqAC6Wp01U-2" value="Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
           <mxGeometry x="175" y="325" width="205" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2xSnvjx7GvlqAC6Wp01U-3" value="Small write up&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+        <mxCell id="2xSnvjx7GvlqAC6Wp01U-3" value="Industry Expertise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
           <mxGeometry x="175" y="385" width="205" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XrAUDyRzqZRc8XnxCQWd-0" value="Small write up&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SZGcEEY24irkHJaPQC9q-1">
+          <mxGeometry x="175" y="450" width="205" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -647,6 +650,9 @@
         <mxCell id="77lm0WCg7Qqqqmpjrfxy-5" value="Repeat for all Mentors - 4 in each row" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77lm0WCg7Qqqqmpjrfxy-0">
           <mxGeometry x="450" y="278" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8dBErJrjGJjdnPGO1mNX-0" value="Industry Expertise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77lm0WCg7Qqqqmpjrfxy-0">
+          <mxGeometry x="130" y="338" width="205" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="77lm0WCg7Qqqqmpjrfxy-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qzLL2MyhXhsCuP8wDhTz-1">
           <mxGeometry x="160" y="280" width="240" height="240" as="geometry" />
         </mxCell>
@@ -657,7 +663,10 @@
           <mxGeometry x="175" y="325" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="77lm0WCg7Qqqqmpjrfxy-9" value="Small write up&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qzLL2MyhXhsCuP8wDhTz-1">
-          <mxGeometry x="175" y="385" width="205" height="45" as="geometry" />
+          <mxGeometry x="177.5" y="450" width="205" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8dBErJrjGJjdnPGO1mNX-1" value="Industry Expertise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qzLL2MyhXhsCuP8wDhTz-1">
+          <mxGeometry x="175" y="390" width="205" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
