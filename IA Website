@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T07:38:15.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Rn7hNYtuBy0ihdrOI_wp" version="15.5.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-10-12T07:41:05.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_NHFTZTSEHJk5-G3uFVW" version="15.5.1" type="github" pages="14">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-6" value="About (Drop Down)&lt;br&gt;1) The Journey (Link to Page 7 - The Journey Page)&lt;br&gt;2) The Core Team - (Link to Page 8 - The Core Team Page)&lt;br&gt;3) Contact - (Link to Page 9 - The Contact Page)&lt;br&gt;4) Startup Stories (Link to Page 10 - The Startup Stories)&lt;br&gt;5) FAQ (Link to Page 11 - The FAQ Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="40" width="240" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Wt2VBZtclPKuuEcaRHRX-7" value="Media (Drop Down)&lt;br&gt;1) Stories About Us.&lt;br&gt;2) Events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wt2VBZtclPKuuEcaRHRX-7" value="Media (Drop Down)&lt;br&gt;1) Events - Link to Page 12 - Events Page)&lt;br&gt;2) Blogs - Link to Page 13 - Blogs Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="40" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-8" value="Apply&lt;br&gt;1) Opens a Form&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -438,6 +438,52 @@
           <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wa7SP5x0JF4W769-c_AC-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wa7SP5x0JF4W769-c_AC-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wUC5jvMuBM3TvOfE0a5N" name="Events Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="l9t_MFIm1Pd1QGFh1-uW-0" />
+        <mxCell id="l9t_MFIm1Pd1QGFh1-uW-1" parent="l9t_MFIm1Pd1QGFh1-uW-0" />
+        <mxCell id="hy5vksuen5p74cTLKNN5-0" value="Events Page" style="swimlane;" vertex="1" parent="l9t_MFIm1Pd1QGFh1-uW-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="hy5vksuen5p74cTLKNN5-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hy5vksuen5p74cTLKNN5-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hy5vksuen5p74cTLKNN5-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hy5vksuen5p74cTLKNN5-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hy5vksuen5p74cTLKNN5-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="hy5vksuen5p74cTLKNN5-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hy5vksuen5p74cTLKNN5-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hy5vksuen5p74cTLKNN5-0">
+          <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AhdjSbla84E-jKPuHMty" name="Blog Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="p6NbS2F7m6HxfbhB_9A8-0" />
+        <mxCell id="p6NbS2F7m6HxfbhB_9A8-1" parent="p6NbS2F7m6HxfbhB_9A8-0" />
+        <mxCell id="XenHQCdawiiqnV568V5x-0" value="Blog Page" style="swimlane;" vertex="1" parent="p6NbS2F7m6HxfbhB_9A8-1">
+          <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="XenHQCdawiiqnV568V5x-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XenHQCdawiiqnV568V5x-0">
+          <mxGeometry x="10" y="80" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XenHQCdawiiqnV568V5x-2" value="Menu Bar (Products or Programs / About / Media / Apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XenHQCdawiiqnV568V5x-0">
+          <mxGeometry x="130" y="30" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XenHQCdawiiqnV568V5x-3" value="Logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XenHQCdawiiqnV568V5x-0">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XenHQCdawiiqnV568V5x-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XenHQCdawiiqnV568V5x-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
       </root>
