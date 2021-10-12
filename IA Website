@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T06:53:07.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="B5wmvG4EQx1erLLtIH21" version="15.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-12T06:58:04.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oaEWKC_SOtUbvGl6Fgqg" version="15.5.1" type="github" pages="7">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -121,7 +121,13 @@
         <mxCell id="R5X10fpiObCqLYz0ktBc-1" value="Link to Page 4 - iAngles and Mentors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
           <mxGeometry x="52" y="730" width="208" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Wt2VBZtclPKuuEcaRHRX-5" value="Products / Programs (Drop Down)&lt;br&gt;1) Startup Accelerator (Link to Page 1 - Accelerator Page)&lt;br&gt;2) Corporate Accelerator (Link to Page 2 - Corporate Page)&lt;br&gt;3) Campus Accelerator (Link to Page 3 - Campus Page).&lt;br&gt;4) iAngels + Mentors (Link to Page 4 - iAngles and Mentors)&lt;br&gt;5) Co-Working&lt;br&gt;6) Acceleration Verticals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WzD5HMN4VnEOHg2EtRMU-1" value="Link to Page 5 - Coworking Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
+          <mxGeometry x="311" y="730" width="208" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gcBSj2T6cvKS38zgCZOG-1" value="Link to Page 6 - Verticals Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wt2VBZtclPKuuEcaRHRX-1">
+          <mxGeometry x="582" y="730" width="208" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt2VBZtclPKuuEcaRHRX-5" value="Products / Programs (Drop Down)&lt;br&gt;1) Startup Accelerator (Link to Page 1 - Accelerator Page)&lt;br&gt;2) Corporate Accelerator (Link to Page 2 - Corporate Page)&lt;br&gt;3) Campus Accelerator (Link to Page 3 - Campus Page).&lt;br&gt;4) iAngels + Mentors (Link to Page 4 - iAngles and Mentors)&lt;br&gt;5) Co-Working (Link to Page 5 - Coworking Page)&lt;br&gt;6) Acceleration Verticals (Link to Page 6 - Verticals Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="40" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-6" value="About (Drop Down)&lt;br&gt;1) The Team.&lt;br&gt;2) The Journey&lt;br&gt;3) Contact&lt;br&gt;4) Startup Stories&lt;br&gt;5) FAQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -219,6 +225,22 @@
       <root>
         <mxCell id="u3h3R5nCQiAI_eNkKUud-0" />
         <mxCell id="u3h3R5nCQiAI_eNkKUud-1" parent="u3h3R5nCQiAI_eNkKUud-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lCGHXf2HitZtt6QXmZq-" name="CoWorking Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="iNr6CX4jQe-EWJ8ImQMP-0" />
+        <mxCell id="iNr6CX4jQe-EWJ8ImQMP-1" parent="iNr6CX4jQe-EWJ8ImQMP-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4n6RHMOfj4qr8wQ7Z9rI" name="Verticals Page">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="AThTZOZ-P73FwDEiRQMo-0" />
+        <mxCell id="AThTZOZ-P73FwDEiRQMo-1" parent="AThTZOZ-P73FwDEiRQMo-0" />
       </root>
     </mxGraphModel>
   </diagram>
