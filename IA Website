@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T10:01:15.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_O0c4p190sZ46btit5Qm" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T10:01:39.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="2j3LMz5tXkfVIWYs77N4" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -349,8 +349,11 @@
         <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="plS0_ZUN7SQ6Y6f4TGFh-5" value="Design to be Defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="plS0_ZUN7SQ6Y6f4TGFh-0">
-          <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
+        <mxCell id="YUGvi-V8-XB42orwLa2D-0" value="Our Value Prop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AThTZOZ-P73FwDEiRQMo-1">
+          <mxGeometry x="57.5" y="270" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YUGvi-V8-XB42orwLa2D-1" value="How it helps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AThTZOZ-P73FwDEiRQMo-1">
+          <mxGeometry x="62.5" y="430" width="780" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
