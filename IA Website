@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:58:19.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XVP76Eryx0WaMEUF6BrU" version="15.5.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-10-12T10:01:15.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_O0c4p190sZ46btit5Qm" version="15.5.1" type="github" pages="18">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="hMg2f1UgG-JloY9T48jX-34" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hMg2f1UgG-JloY9T48jX-36" value="What We Offer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
+        <mxCell id="hMg2f1UgG-JloY9T48jX-36" value="Our Value Prop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
           <mxGeometry x="20" y="240" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1kuCr7QrDHKtCO43AjPr-0" value="How it helps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hMg2f1UgG-JloY9T48jX-0">
@@ -194,7 +194,7 @@
         <mxCell id="7IGnGZ4OayyYq66aeqFm-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7IGnGZ4OayyYq66aeqFm-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rpd2cNge8Rcbp9VvJUC0-0" value="What We Offer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jG57kDXBOuxtt8Ksn0aV-1">
+        <mxCell id="Rpd2cNge8Rcbp9VvJUC0-0" value="Our Value Prop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jG57kDXBOuxtt8Ksn0aV-1">
           <mxGeometry x="60" y="280" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rpd2cNge8Rcbp9VvJUC0-1" value="How it helps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jG57kDXBOuxtt8Ksn0aV-1">
@@ -226,7 +226,7 @@
         <mxCell id="Bm47jRwWV-kCB_VBwUML-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bm47jRwWV-kCB_VBwUML-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iCScBZgHxpd1fnaDPuKt-0" value="What We Offer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SoTOsKELv6NIUm0AVnko-1">
+        <mxCell id="iCScBZgHxpd1fnaDPuKt-0" value="Our Value Prop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SoTOsKELv6NIUm0AVnko-1">
           <mxGeometry x="60" y="280" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iCScBZgHxpd1fnaDPuKt-1" value="How it helps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SoTOsKELv6NIUm0AVnko-1">
@@ -258,41 +258,47 @@
         <mxCell id="n0_fahL-0TR-fHPgGYDT-4" value="Footer&amp;nbsp;&lt;br&gt;Copyright&lt;br&gt;Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
           <mxGeometry x="20" y="810" width="790" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jhn84q7MWzd62OzaE_j4-0" value="Our Value Prop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="17.5" y="230" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jhn84q7MWzd62OzaE_j4-1" value="How it helps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
+          <mxGeometry x="22.5" y="390" width="780" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="120" y="240" width="240" height="240" as="geometry" />
+          <mxGeometry x="150" y="560" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--1" value="iAngels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="177.5" y="240" width="130" height="30" as="geometry" />
+          <mxGeometry x="207.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--2" value="Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="135" y="285" width="205" height="45" as="geometry" />
+          <mxGeometry x="165" y="605" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--3" value="Small Description( 3 to 4 Lines)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="135" y="345" width="205" height="45" as="geometry" />
+          <mxGeometry x="165" y="665" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--4" value="CTA (See our full list of iAngels)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="177.5" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="207.5" y="740" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--5" value="Link to Page 16 - iAngels Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="150" y="460" width="208" height="15" as="geometry" />
+          <mxGeometry x="180" y="780" width="208" height="15" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="440" y="240" width="240" height="240" as="geometry" />
+          <mxGeometry x="470" y="560" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--7" value="Mentors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="497.5" y="240" width="130" height="30" as="geometry" />
+          <mxGeometry x="527.5" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--8" value="Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="455" y="285" width="205" height="45" as="geometry" />
+          <mxGeometry x="485" y="605" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--9" value="Small Description( 3 to 4 Lines)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="455" y="345" width="205" height="45" as="geometry" />
+          <mxGeometry x="485" y="665" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--10" value="CTA (See our full list of Mentors)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="497.5" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="527.5" y="740" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqTRlPSJW-kbHXONf5p--11" value="Link to Page 17 - Mentors Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n0_fahL-0TR-fHPgGYDT-0">
-          <mxGeometry x="470" y="460" width="208" height="15" as="geometry" />
+          <mxGeometry x="500" y="780" width="208" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
