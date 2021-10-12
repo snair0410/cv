@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T07:36:08.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="QuFzzRkym3EhAN13qlNt" version="15.5.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-10-12T07:38:15.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Rn7hNYtuBy0ihdrOI_wp" version="15.5.1" type="github" pages="12">
   <diagram id="YNfCF6fRGvLy4FVYqdpI" name="Home Page">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-5" value="Products / Programs (Drop Down)&lt;br&gt;1) Startup Accelerator (Link to Page 1 - Accelerator Page)&lt;br&gt;2) Corporate Accelerator (Link to Page 2 - Corporate Page)&lt;br&gt;3) Campus Accelerator (Link to Page 3 - Campus Page).&lt;br&gt;4) iAngels + Mentors (Link to Page 4 - iAngles and Mentors)&lt;br&gt;5) Co-Working (Link to Page 5 - Coworking Page)&lt;br&gt;6) Acceleration Verticals (Link to Page 6 - Verticals Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="40" width="240" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Wt2VBZtclPKuuEcaRHRX-6" value="About (Drop Down)&lt;br&gt;1) The Journey (Link to Page 7 - The Journey Page)&lt;br&gt;2) The Core Team - (Link to Page 8 - The Core Team Page)&lt;br&gt;3) Contact - (Link to Page 9 - The Contact Page)&lt;br&gt;4) Startup Stories (Link to Page 10 - The Startup Stories)&lt;br&gt;5) FAQ (Link to Page 11 - The FAQ Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wt2VBZtclPKuuEcaRHRX-6" value="About (Drop Down)&lt;br&gt;1) The Journey (Link to Page 7 - The Journey Page)&lt;br&gt;2) The Core Team - (Link to Page 8 - The Core Team Page)&lt;br&gt;3) Contact - (Link to Page 9 - The Contact Page)&lt;br&gt;4) Startup Stories (Link to Page 10 - The Startup Stories)&lt;br&gt;5) FAQ (Link to Page 11 - The FAQ Page)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="40" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Wt2VBZtclPKuuEcaRHRX-7" value="Media (Drop Down)&lt;br&gt;1) Stories About Us.&lt;br&gt;2) Events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -425,7 +425,7 @@
       <root>
         <mxCell id="MGaNtTo3izdoNdCQqRho-0" />
         <mxCell id="MGaNtTo3izdoNdCQqRho-1" parent="MGaNtTo3izdoNdCQqRho-0" />
-        <mxCell id="wa7SP5x0JF4W769-c_AC-0" value="Core Team Page" style="swimlane;" vertex="1" parent="MGaNtTo3izdoNdCQqRho-1">
+        <mxCell id="wa7SP5x0JF4W769-c_AC-0" value="FAQ Page" style="swimlane;" vertex="1" parent="MGaNtTo3izdoNdCQqRho-1">
           <mxGeometry x="40" y="40" width="820" height="920" as="geometry" />
         </mxCell>
         <mxCell id="wa7SP5x0JF4W769-c_AC-1" value="Use the current production design - Update will al relevant recent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wa7SP5x0JF4W769-c_AC-0">
