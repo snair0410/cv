@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T09:00:48.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YoPtCzZv3uWlMs3pMZoc" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T13:10:56.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MQ9jEfLhVL6zguN8uQRb" version="21.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -150,8 +150,36 @@
         <mxCell id="9cJu-RQ06pm0dumcZt0R-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="510" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-50" target="9cJu-RQ06pm0dumcZt0R-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-53" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-52">
+          <mxGeometry x="-0.1714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-50" value="Is email ID and password correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="660" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-51" target="9cJu-RQ06pm0dumcZt0R-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-58" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-55">
+          <mxGeometry x="0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-51" value="Has User completed all configurations?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="660" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-54" target="9cJu-RQ06pm0dumcZt0R-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-54" value="User sent to Dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="665" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-56" value="A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1490" y="665" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
