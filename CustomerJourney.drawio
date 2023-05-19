@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T11:11:59.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iSTxSsaSjkXCCAaLAEj1" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T11:14:56.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Pz9L3h_MDYtbIWgAtKlf" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1161,6 +1161,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-107" target="A_GpMfgXt7el1WUEko_E-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-107" value="Employee selection" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2130" y="840" width="160" height="160" as="geometry" />
         </mxCell>
@@ -1242,6 +1245,35 @@
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-135" value="This ticket will be assigned to the system admin of the company" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2660" y="1160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-140" target="A_GpMfgXt7el1WUEko_E-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-140" value="Employee needs immediate technical support" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-142" value="Query on Technical Support" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2210" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2890" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-143" value="This ticket will be assigned to the Expense Booking Tech team" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="1280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-149" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2880" y="1330" as="sourcePoint" />
+            <mxPoint x="2880" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-150" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.92;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A_GpMfgXt7el1WUEko_E-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2880" y="782" as="sourcePoint" />
+            <mxPoint x="2600" y="1040" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
