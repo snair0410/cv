@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T09:06:08.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FQ7mxt44xf9iqmhkHyOo" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T09:22:27.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="n-x0JrlPfhuyEhrB844I" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -835,6 +835,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-6" target="A_GpMfgXt7el1WUEko_E-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1890" y="555" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1750" y="555" />
+              <mxPoint x="2375" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-95" value="Non Travel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A_GpMfgXt7el1WUEko_E-94">
+          <mxGeometry x="0.1755" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-6" value="Travel or Non-Travel?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="290" width="160" height="160" as="geometry" />
         </mxCell>
@@ -969,14 +983,11 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-49" value="Employee clears all yellow exceptions from the bill expense form" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3390" y="120" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-51" target="A_GpMfgXt7el1WUEko_E-53">
+        <mxCell id="A_GpMfgXt7el1WUEko_E-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-51" target="A_GpMfgXt7el1WUEko_E-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-51" value="Employee submits bill expense form for approval" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3560" y="120" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-53" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3720" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-55" target="A_GpMfgXt7el1WUEko_E-58">
           <mxGeometry relative="1" as="geometry" />
@@ -1031,14 +1042,13 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-70" value="Employee clears all yellow exceptions from the bill expense form" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4010" y="320" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-71" target="A_GpMfgXt7el1WUEko_E-72">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A_GpMfgXt7el1WUEko_E-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4340" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-71" value="Employee submits bill expense form for approval" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4180" y="320" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-72" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4340" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-77" value="Save" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="A_GpMfgXt7el1WUEko_E-78">
           <mxGeometry relative="1" as="geometry">
@@ -1062,6 +1072,24 @@
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-83" value="Employee clicks picture of bill" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2880" y="500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-86" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3900" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-87" target="A_GpMfgXt7el1WUEko_E-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-87" value="An expense report with the expense lines are created below the trip (travel). just an expense report (non-travel)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-90" target="A_GpMfgXt7el1WUEko_E-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-90" value="An expense report with the expense lines are created below the trip (travel). just an expense report (non-travel)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-91" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
