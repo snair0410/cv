@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T09:49:09.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TFXscOhOOU0vt17Mrd3y" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T10:05:58.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="d1K0-f43km8tKoBRz4uO" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -790,7 +790,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xi9bO9ubBPUgJ_w_4yTW-1" target="A_GpMfgXt7el1WUEko_E-96">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="610" />
+              <mxPoint x="1500" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-98" value="Employee wants&lt;br&gt;&amp;nbsp;to see &lt;br&gt;settlement status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A_GpMfgXt7el1WUEko_E-97">
+          <mxGeometry x="-0.5" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xi9bO9ubBPUgJ_w_4yTW-1" value="Employee decision on dashboard?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="530" width="160" height="160" as="geometry" />
@@ -1094,8 +1104,8 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-91" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4500" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-96" value="Prompt employee to select if its a travel or non-travel expense" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="600" width="100" height="100" as="geometry" />
+        <mxCell id="A_GpMfgXt7el1WUEko_E-96" value="Employee taken to dashboard where all the paid, pending and in review settlements are listed" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="590" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
