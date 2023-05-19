@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T23:58:51.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Kcf0freEjENVfSDe9YBO" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T00:20:30.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UbeVK93xWtq1LHcQE0XC" version="21.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -177,6 +177,21 @@
         </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-58" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-55">
           <mxGeometry x="0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-51" target="9cJu-RQ06pm0dumcZt0R-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="515" />
+              <mxPoint x="1280" y="515" />
+              <mxPoint x="1280" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-130" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-129">
+          <mxGeometry x="-0.3126" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -360,6 +375,9 @@
         <mxCell id="9cJu-RQ06pm0dumcZt0R-114" value="Based on data uploaded, system will ask user if these are the groups" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3440" y="270" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-116" target="9cJu-RQ06pm0dumcZt0R-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-116" value="User can accept, edit and also create more groups&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3600" y="270" width="100" height="100" as="geometry" />
         </mxCell>
@@ -378,6 +396,73 @@
         </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-121" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Eg&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Group 1 - Band 1&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Group 2 - Band 2&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Group 3 - Band 3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3690" y="90" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-122" target="9cJu-RQ06pm0dumcZt0R-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-126" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-125">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-122" target="9cJu-RQ06pm0dumcZt0R-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-122" value="User is prompted to select if they want both travel and non-travel T&amp;amp;E policies. They can select either one or both" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3580" y="440" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-124" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3800" y="465" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-131" target="9cJu-RQ06pm0dumcZt0R-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-131" value="User is prompted to select the pre-defined 6 or 7 policies that the engine already has. They can select, delete or add another policy. eg) International Air fare policy, Domestic Mobile bill policy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3540" y="600" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9cJu-RQ06pm0dumcZt0R-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3760" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-134" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-133">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-135" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3840" y="650" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-136" value="This will be clear when we create the wireframes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3360" y="650" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-137" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Travel And/Or&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Non-Tavel&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3880" y="410" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-138" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Undefined&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3910" y="600" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-139" value="User is prompted with the grid view to form the policies" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3580" y="840" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-141" value="This will be clear when we create the wireframes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3360" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9cJu-RQ06pm0dumcZt0R-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3720" y="900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-143" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-142">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-144" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3800" y="870" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-145" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Undefined&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3870" y="820" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
