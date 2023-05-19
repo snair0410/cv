@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T10:23:29.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mWdgL6zfmTju7w1c0Lex" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T11:04:43.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9Pd6jZH_4G2bSscIkZIb" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1124,11 +1124,96 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-96" value="Employee taken to dashboard where all the paid, pending and in review settlements are listed" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1610" y="590" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-99" target="A_GpMfgXt7el1WUEko_E-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-99" value="Employee can raise ticket for any settlement that has been rejected" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1800" y="590" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-101" target="A_GpMfgXt7el1WUEko_E-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-101" value="Employee wants to open a ticket" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="760" width="100" height="100" as="geometry" />
+          <mxGeometry x="1600" y="870" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-104" target="A_GpMfgXt7el1WUEko_E-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-104" value="Prompts employee to select one of 4 options 1) Queries on trips 2) Queries on Expense Reports / Settlements 3) Queries on System Change 4) Queries on Technical Support&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="870" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-110" value="Query on trips" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-107" target="A_GpMfgXt7el1WUEko_E-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-107" target="A_GpMfgXt7el1WUEko_E-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-125" value="Query on settlement / expense report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A_GpMfgXt7el1WUEko_E-124">
+          <mxGeometry x="0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-107" value="Employee selection" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="840" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-109" target="A_GpMfgXt7el1WUEko_E-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-109" value="Employee has query on a trip" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-111" target="A_GpMfgXt7el1WUEko_E-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-111" value="Employee is shown all trips in an ascending order in a list&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-113" target="A_GpMfgXt7el1WUEko_E-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-113" value="Employee chooses the right trip" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-114" target="A_GpMfgXt7el1WUEko_E-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-114" value="Employee fills in all the relevant details related to the ticket" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-117" target="A_GpMfgXt7el1WUEko_E-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-122" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A_GpMfgXt7el1WUEko_E-120">
+          <mxGeometry x="-0.3143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-117" value="Employee hits submit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-119" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="850" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-121" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket number auto generated&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket opened on data object&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket opened on data object ID&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket Opened Date&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket Raised By&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket Raiser Department&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket status&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ticket Assigned to Department&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Issue Description&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Uploaded Documents.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="810" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-123" target="A_GpMfgXt7el1WUEko_E-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-123" value="Employee has query on a expense report or settlement" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="870" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-126" target="A_GpMfgXt7el1WUEko_E-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-126" value="Employee is shown all expense reports/settlements in an ascending order in a list&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="1040" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-128" target="A_GpMfgXt7el1WUEko_E-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-128" value="Employee chooses the expense report / settlement" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="1040" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
