@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T08:34:51.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ThEudJN7faLMq8fsa57Z" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T08:51:53.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yiI2xdjZc5hIPUnZ3jR2" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -824,7 +824,7 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-3" target="A_GpMfgXt7el1WUEko_E-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-3" value="Prompt user to select if its a travel or non-travel expense" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="A_GpMfgXt7el1WUEko_E-3" value="Prompt employee to select if its a travel or non-travel expense" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1480" y="320" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-6" target="A_GpMfgXt7el1WUEko_E-8">
@@ -841,10 +841,13 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-8" target="A_GpMfgXt7el1WUEko_E-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-8" value="Prompt user to select the trips available in the system under his/her name" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="A_GpMfgXt7el1WUEko_E-8" value="Prompt employee to select the trips available in the system under his/her name" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1900" y="320" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-17" value="User selects the trip" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="A_GpMfgXt7el1WUEko_E-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-17" target="A_GpMfgXt7el1WUEko_E-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-17" value="Employee selects the trip" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2070" y="320" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-19" target="A_GpMfgXt7el1WUEko_E-21">
@@ -902,6 +905,32 @@
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-28" value="Go to Page # to see Finance Approver Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="-50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-36" target="A_GpMfgXt7el1WUEko_E-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-36" value="Prompt employee to select one of three options 1) Manual entry with bill upload. 2) Upload image of bill and automatically generate entries. 3) Open camera and take pic of bill" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="320" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-38" target="A_GpMfgXt7el1WUEko_E-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-42" value="Manual entry with bill upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A_GpMfgXt7el1WUEko_E-41">
+          <mxGeometry x="0.0118" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-38" value="Employee Selection?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="305" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-40" target="A_GpMfgXt7el1WUEko_E-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-40" value="Travel expense form. Employee to enter details manually" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-43" value="Employee to&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="120" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
