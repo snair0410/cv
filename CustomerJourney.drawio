@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T11:14:56.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Pz9L3h_MDYtbIWgAtKlf" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T23:31:28.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RK2JmCv8VatR0Sd8vNN3" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -816,6 +816,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xi9bO9ubBPUgJ_w_4yTW-1" target="A_GpMfgXt7el1WUEko_E-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xi9bO9ubBPUgJ_w_4yTW-1" value="Employee decision on dashboard?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="530" width="160" height="160" as="geometry" />
         </mxCell>
@@ -1274,6 +1277,24 @@
             <mxPoint x="2880" y="782" as="sourcePoint" />
             <mxPoint x="2600" y="1040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-151" target="A_GpMfgXt7el1WUEko_E-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-151" value="Employee wants to view reports" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1080" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-153" target="A_GpMfgXt7el1WUEko_E-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-153" value="Employee taken to reporting dashboard.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1080" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-155" value="Reporting requirements are not part of this diagram" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A_GpMfgXt7el1WUEko_E-157" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;All reporting requirements need to be defined&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1190" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
