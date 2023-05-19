@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T00:20:30.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UbeVK93xWtq1LHcQE0XC" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T00:23:17.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mHfkIuR_oJoLsqVKPW5p" version="21.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -442,6 +442,9 @@
         <mxCell id="9cJu-RQ06pm0dumcZt0R-138" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Undefined&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3910" y="600" width="180" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-139" target="9cJu-RQ06pm0dumcZt0R-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-139" value="User is prompted with the grid view to form the policies" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3580" y="840" width="140" height="110" as="geometry" />
         </mxCell>
@@ -450,7 +453,7 @@
         </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9cJu-RQ06pm0dumcZt0R-144">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3720" y="900" as="sourcePoint" />
+            <mxPoint x="3720" y="1060" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-143" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9cJu-RQ06pm0dumcZt0R-142">
@@ -459,10 +462,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-144" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3800" y="870" width="60" height="60" as="geometry" />
+          <mxGeometry x="3800" y="1030" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9cJu-RQ06pm0dumcZt0R-145" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Undefined&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3870" y="820" width="180" height="110" as="geometry" />
+          <mxGeometry x="3870" y="980" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cJu-RQ06pm0dumcZt0R-146" target="9cJu-RQ06pm0dumcZt0R-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cJu-RQ06pm0dumcZt0R-146" value="User drags and drops using the grid view. Cretes the various rules." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3580" y="1000" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
