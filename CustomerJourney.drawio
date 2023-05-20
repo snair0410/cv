@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T01:01:56.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_RyjOKEq-XXScdUMt_K1" version="21.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-20T01:55:08.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zkU0I0RqlQCShIBpcQ0o" version="21.2.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1599,6 +1599,63 @@
         </mxCell>
         <mxCell id="g4lip0B1EV3C_g7Q6Hsp-34" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1270" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KqFc3CPDOyOhCTpIGSMF" name="Finance Journey from dashboard">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f4o3Hcr2eXPKNYLyU5p-2" target="2f4o3Hcr2eXPKNYLyU5p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-2" value="A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f4o3Hcr2eXPKNYLyU5p-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-4" value="Finance Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f4o3Hcr2eXPKNYLyU5p-6" target="2f4o3Hcr2eXPKNYLyU5p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-6" value="Logs into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f4o3Hcr2eXPKNYLyU5p-8" target="2f4o3Hcr2eXPKNYLyU5p-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-8" value="All the options for the employee are available for the Finance Leader also" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3M0PYs34yEgrZYBkKp0X-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f4o3Hcr2eXPKNYLyU5p-9" target="3M0PYs34yEgrZYBkKp0X-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f4o3Hcr2eXPKNYLyU5p-9" value="Finance Leader has one more option - Approve Cash Advance" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxAHV00-1oWrD1JzgVQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3M0PYs34yEgrZYBkKp0X-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3M0PYs34yEgrZYBkKp0X-1" value="Finance Leader sees list of cash advances requested." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fvODXLslL1HKmZhBCkQ2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zuSji-rH2wi1cbHVwREj-1" target="fvODXLslL1HKmZhBCkQ2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zuSji-rH2wi1cbHVwREj-1" value="Finance Leader can Approve/Reject" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fvODXLslL1HKmZhBCkQ2-1" value="Decision by Finance Leader?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="530" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
