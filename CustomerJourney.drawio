@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T00:54:24.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ctgYrJ2hr6vQIrIQV7JH" version="21.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-20T01:01:56.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_RyjOKEq-XXScdUMt_K1" version="21.2.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1591,8 +1591,14 @@
         <mxCell id="g4lip0B1EV3C_g7Q6Hsp-27" value="People leader is given text box to make comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1250" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="g4lip0B1EV3C_g7Q6Hsp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g4lip0B1EV3C_g7Q6Hsp-30" target="g4lip0B1EV3C_g7Q6Hsp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g4lip0B1EV3C_g7Q6Hsp-30" value="Notification is sent to requesting employee that expense report is rejected with comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1640" y="1250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g4lip0B1EV3C_g7Q6Hsp-34" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1270" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
