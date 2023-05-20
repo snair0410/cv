@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T02:23:59.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PaLvppSB_7WD9SPi8tUq" version="21.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-20T02:46:31.548Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AMaMAy1SkI3frIS3Ctea" version="21.2.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1800,8 +1800,50 @@
         <mxCell id="RdJbM86ESNW8dgofzdJ--8" value="All the options for the employee are available for the Finance Employee also" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RdJbM86ESNW8dgofzdJ--9" value="Finance leader has a few more options 1) Cash Advance. 2) Settle Employee cash&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RdJbM86ESNW8dgofzdJ--9" target="oKAvsXqfvvL_iq4c1Vuu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--9" value="Finance employee has a few more options 1) Cash Advance. 2) Settle Employee cash&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-1" target="oKAvsXqfvvL_iq4c1Vuu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-5" value="Cash Advance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oKAvsXqfvvL_iq4c1Vuu-4">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-1" value="Decision by Finance Employee?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-3" target="oKAvsXqfvvL_iq4c1Vuu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-3" value="Finance employee sees a list of all cash advance requests in a list view" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-6" value="Cash Advance can have 3 status, In Progress, Approved, Rejected." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-10" target="oKAvsXqfvvL_iq4c1Vuu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-13" value="Approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oKAvsXqfvvL_iq4c1Vuu-12">
+          <mxGeometry x="-0.14" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-10" value="Cash Advance Status?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-11" value="Cash advance request is in approved status" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="330" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
