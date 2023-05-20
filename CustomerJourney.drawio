@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T23:31:28.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RK2JmCv8VatR0Sd8vNN3" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-20T00:19:01.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zieONt4ZleexK_-lCHkI" version="21.2.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1295,6 +1295,170 @@
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-157" value="&lt;p style=&quot;background-color: initial; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;All reporting requirements need to be defined&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1540" y="1190" width="270" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Qw8851ty0XAEYb1oi_fn" name="People Leader Journey from Dashboard">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZWYa80ZfK0yhQ0sjemfK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWYa80ZfK0yhQ0sjemfK-2" target="ZWYa80ZfK0yhQ0sjemfK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWYa80ZfK0yhQ0sjemfK-2" value="A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWYa80ZfK0yhQ0sjemfK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWYa80ZfK0yhQ0sjemfK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWYa80ZfK0yhQ0sjemfK-4" value="People Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SX8OM3v7NDd_Yrt67IE4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SX8OM3v7NDd_Yrt67IE4-1" target="SX8OM3v7NDd_Yrt67IE4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SX8OM3v7NDd_Yrt67IE4-1" value="Logs into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SX8OM3v7NDd_Yrt67IE4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SX8OM3v7NDd_Yrt67IE4-2" target="SX8OM3v7NDd_Yrt67IE4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SX8OM3v7NDd_Yrt67IE4-2" value="All the options for the employee are available for the people leader also" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SX8OM3v7NDd_Yrt67IE4-4" target="ru4xPhye0yQc3A5w0Eh4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SX8OM3v7NDd_Yrt67IE4-4" value="People Leader has one more options - Approve Travel Requests or Approve Expense Reports" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-1" target="ru4xPhye0yQc3A5w0Eh4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-5" value="Approve travel&lt;br&gt;&amp;nbsp;Requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ru4xPhye0yQc3A5w0Eh4-4">
+          <mxGeometry x="-0.3111" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-1" value="People leader decision on dashboard" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-3" target="ru4xPhye0yQc3A5w0Eh4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-3" value="People Leader sees a list view of all travel requests assigned to him for approval" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-6" target="ru4xPhye0yQc3A5w0Eh4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-6" value="People Leader can Approve, Reject" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-8" target="ru4xPhye0yQc3A5w0Eh4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-3" value="Approves travel request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ru4xPhye0yQc3A5w0Eh4-11">
+          <mxGeometry x="0.075" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-8" target="6utKRyBg6ewUMAOUYKWV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-8" value="Decision by People Leader?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-10" target="6utKRyBg6ewUMAOUYKWV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-10" value="People leader approves the travel request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-azpao7CLePuj7HS6ajl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ru4xPhye0yQc3A5w0Eh4-12" target="-azpao7CLePuj7HS6ajl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru4xPhye0yQc3A5w0Eh4-12" value="Notification is sent to requesting employee and a trip is formed.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-azpao7CLePuj7HS6ajl-1" value="Employee clicks on &#39;Send To Admin/Biz Travel Button&#39;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2250" y="399.5" as="targetPoint" />
+            <mxPoint x="2180" y="399.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-2" value="Go to Page # to see Biz Travel / Admin journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-4" target="ru4xPhye0yQc3A5w0Eh4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-7" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6utKRyBg6ewUMAOUYKWV-6">
+          <mxGeometry x="-0.2333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-4" target="6utKRyBg6ewUMAOUYKWV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6utKRyBg6ewUMAOUYKWV-9">
+          <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-4" value="People leader wants to add extra comments" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-8" target="ru4xPhye0yQc3A5w0Eh4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-8" value="People leader is given text box to make comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-12" target="6utKRyBg6ewUMAOUYKWV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-12" value="People leader rejects the travel request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-14" target="6utKRyBg6ewUMAOUYKWV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6utKRyBg6ewUMAOUYKWV-17">
+          <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-14" target="6utKRyBg6ewUMAOUYKWV-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1980" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-14" value="People leader wants to add extra comments" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.39;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6utKRyBg6ewUMAOUYKWV-16" target="6utKRyBg6ewUMAOUYKWV-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2170" y="690" />
+              <mxPoint x="2320" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-16" value="People leader is given text box to make comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6utKRyBg6ewUMAOUYKWV-19" value="Submitted travel request is sent back to the employee as rejected with comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="740" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
