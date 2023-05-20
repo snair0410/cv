@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T01:55:08.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zkU0I0RqlQCShIBpcQ0o" version="21.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-20T02:14:21.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HEaAWtF55MW7jOVBAgpO" version="21.2.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1603,7 +1603,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="KqFc3CPDOyOhCTpIGSMF" name="Finance Journey from dashboard">
+  <diagram id="KqFc3CPDOyOhCTpIGSMF" name="Finance Leader Journey from dashboard">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1654,8 +1654,117 @@
         <mxCell id="zuSji-rH2wi1cbHVwREj-1" value="Finance Leader can Approve/Reject" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1000" y="560" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="fvODXLslL1HKmZhBCkQ2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvODXLslL1HKmZhBCkQ2-1" target="fvODXLslL1HKmZhBCkQ2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fvODXLslL1HKmZhBCkQ2-5" value="Approve" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fvODXLslL1HKmZhBCkQ2-4">
+          <mxGeometry x="-0.1286" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvODXLslL1HKmZhBCkQ2-1" target="AHy2Xrd3bO5T7DsXLBFt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-7" value="Reject" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHy2Xrd3bO5T7DsXLBFt-6">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fvODXLslL1HKmZhBCkQ2-1" value="Decision by Finance Leader?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fvODXLslL1HKmZhBCkQ2-3" value="Finance Leader clicks Approve" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gTX60v-YqFsvV6bGuzvg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fvODXLslL1HKmZhBCkQ2-3" target="gTX60v-YqFsvV6bGuzvg-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1740" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTX60v-YqFsvV6bGuzvg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gTX60v-YqFsvV6bGuzvg-1" target="gTX60v-YqFsvV6bGuzvg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gTX60v-YqFsvV6bGuzvg-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gTX60v-YqFsvV6bGuzvg-4">
+          <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gTX60v-YqFsvV6bGuzvg-1" target="-nLf6l3J2f6z6wp0CCNK-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="510" />
+              <mxPoint x="2280" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-4" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHy2Xrd3bO5T7DsXLBFt-3">
+          <mxGeometry x="-0.2622" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTX60v-YqFsvV6bGuzvg-1" value="Finance Leader wants to add comments?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-nLf6l3J2f6z6wp0CCNK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gTX60v-YqFsvV6bGuzvg-3" target="-nLf6l3J2f6z6wp0CCNK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gTX60v-YqFsvV6bGuzvg-3" value="Finance Leader is given text box to make comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-nLf6l3J2f6z6wp0CCNK-1" target="AHy2Xrd3bO5T7DsXLBFt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-nLf6l3J2f6z6wp0CCNK-1" value="Notification sent to Finance employee Role / Employee to move forward" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-1" value="Go to Page # to see Finance Employee Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHy2Xrd3bO5T7DsXLBFt-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-5" value="Finance Leader clicks Reject" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHy2Xrd3bO5T7DsXLBFt-9" target="AHy2Xrd3bO5T7DsXLBFt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHy2Xrd3bO5T7DsXLBFt-11">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3vsGyWxmJvpZW7Q4Rgm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AHy2Xrd3bO5T7DsXLBFt-9" target="AHy2Xrd3bO5T7DsXLBFt-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1917" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3vsGyWxmJvpZW7Q4Rgm-4" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u3vsGyWxmJvpZW7Q4Rgm-3">
+          <mxGeometry x="0.061" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-9" value="Finance Leader wants to add comments?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="750" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHy2Xrd3bO5T7DsXLBFt-10" target="AHy2Xrd3bO5T7DsXLBFt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-10" value="Finance Leader is given text box to make comments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u3vsGyWxmJvpZW7Q4Rgm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHy2Xrd3bO5T7DsXLBFt-12" target="u3vsGyWxmJvpZW7Q4Rgm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHy2Xrd3bO5T7DsXLBFt-12" value="Notification sent to Finance employee Role / Employee that cash advance has been rejected" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u3vsGyWxmJvpZW7Q4Rgm-1" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="790" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
