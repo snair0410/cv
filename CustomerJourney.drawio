@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T02:14:21.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HEaAWtF55MW7jOVBAgpO" version="21.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-20T02:23:59.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PaLvppSB_7WD9SPi8tUq" version="21.2.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1765,6 +1765,43 @@
         </mxCell>
         <mxCell id="u3vsGyWxmJvpZW7Q4Rgm-1" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RlrhnVX3-Tapi6NsvF9Q" name="Finance Employee Journey">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RdJbM86ESNW8dgofzdJ--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RdJbM86ESNW8dgofzdJ--2" target="RdJbM86ESNW8dgofzdJ--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--2" value="A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RdJbM86ESNW8dgofzdJ--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--4" value="Finance Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RdJbM86ESNW8dgofzdJ--6" target="RdJbM86ESNW8dgofzdJ--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--6" value="Logs into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RdJbM86ESNW8dgofzdJ--8" target="RdJbM86ESNW8dgofzdJ--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--8" value="All the options for the employee are available for the Finance Employee also" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbM86ESNW8dgofzdJ--9" value="Finance leader has a few more options 1) Cash Advance. 2) Settle Employee cash&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
