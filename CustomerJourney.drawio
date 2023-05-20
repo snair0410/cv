@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T02:46:31.548Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AMaMAy1SkI3frIS3Ctea" version="21.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-20T02:57:51.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="s9oiAj87ykaTnYMRHmNj" version="21.2.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1839,11 +1839,69 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-10" target="rMvqKX22JL6zubAnWX0g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-5" value="In Progress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rMvqKX22JL6zubAnWX0g-4">
+          <mxGeometry x="-0.24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-10" target="rMvqKX22JL6zubAnWX0g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-11" value="Rejected" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rMvqKX22JL6zubAnWX0g-10">
+          <mxGeometry x="-0.3556" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oKAvsXqfvvL_iq4c1Vuu-10" value="Cash Advance Status?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="530" width="160" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-11" target="oKAvsXqfvvL_iq4c1Vuu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oKAvsXqfvvL_iq4c1Vuu-11" value="Cash advance request is in approved status" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1520" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-14" target="oKAvsXqfvvL_iq4c1Vuu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-14" value="Finance employee downloads report having all cash advance status as approved.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-16" target="oKAvsXqfvvL_iq4c1Vuu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-16" value="Finance employee processes payments outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-18" target="oKAvsXqfvvL_iq4c1Vuu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-18" value="Finance employee processes status as Completed." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-20" target="rMvqKX22JL6zubAnWX0g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAvsXqfvvL_iq4c1Vuu-20" value="System add notional money to the trip icon on dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-1" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rMvqKX22JL6zubAnWX0g-3" target="rMvqKX22JL6zubAnWX0g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-3" value="Cash advance request is In Progress status. Awaiting approval from Finance Leader" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-7" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rMvqKX22JL6zubAnWX0g-9" value="Cash advance request is In Progress status. Awaiting approval from Finance Leader" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="780" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
