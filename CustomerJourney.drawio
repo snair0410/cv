@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T03:19:33.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UzyQ5FTfFKzxMIyk9-cb" version="21.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-21T04:16:53.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Tt9SlfzRRHIcgM7xYE5L" version="21.2.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -819,6 +819,24 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xi9bO9ubBPUgJ_w_4yTW-1" target="A_GpMfgXt7el1WUEko_E-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-4" value="View Reports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A_GpMfgXt7el1WUEko_E-152">
+          <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xi9bO9ubBPUgJ_w_4yTW-1" target="e8tcwuHfFrY6ORNde2vL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="650" />
+              <mxPoint x="1230" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-3" value="Modify Trip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e8tcwuHfFrY6ORNde2vL-2">
+          <mxGeometry x="-0.3014" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xi9bO9ubBPUgJ_w_4yTW-1" value="Employee decision on dashboard?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="530" width="160" height="160" as="geometry" />
         </mxCell>
@@ -1307,6 +1325,39 @@
         </mxCell>
         <mxCell id="IyQd8nqyaXTWFLwPH4wd-4" value="Employee makes any multi currency changes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3830" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e8tcwuHfFrY6ORNde2vL-1" target="e8tcwuHfFrY6ORNde2vL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-1" value="Employee wants to modify trip" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1080" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8tcwuHfFrY6ORNde2vL-5" target="e8tcwuHfFrY6ORNde2vL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-5" value="Employee gets list view of all trips associated with him/her" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8tcwuHfFrY6ORNde2vL-7" target="e8tcwuHfFrY6ORNde2vL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-7" value="Employee chooses trip that they want to modify" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8tcwuHfFrY6ORNde2vL-9" target="e8tcwuHfFrY6ORNde2vL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-9" value="Form associated with trip opens up" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8tcwuHfFrY6ORNde2vL-11" target="e8tcwuHfFrY6ORNde2vL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-11" value="Employee changes what is required" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e8tcwuHfFrY6ORNde2vL-13" value="Employee saves trip form" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1530" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
