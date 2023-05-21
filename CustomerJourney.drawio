@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T02:32:27.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2t5mWWhH5DwyE3qpO916" version="21.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-21T02:40:56.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dwIgR7qPjb6-UeE2AIKm" version="21.2.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1986,11 +1986,22 @@
         <mxCell id="oKAvsXqfvvL_iq4c1Vuu-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-18" target="oKAvsXqfvvL_iq4c1Vuu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2QWGACa8RrMuYssWl5Wb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-18" target="2QWGACa8RrMuYssWl5Wb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oKAvsXqfvvL_iq4c1Vuu-18" value="Finance employee processes status as Completed." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2000" y="330" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rMvqKX22JL6zubAnWX0g-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-20" target="rMvqKX22JL6zubAnWX0g-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1OjKB-F3tLIvIjAjPqC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-20" target="A1OjKB-F3tLIvIjAjPqC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1OjKB-F3tLIvIjAjPqC-3" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A1OjKB-F3tLIvIjAjPqC-2">
+          <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oKAvsXqfvvL_iq4c1Vuu-20" value="System add notional money to the trip icon on dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2160" y="330" width="100" height="100" as="geometry" />
@@ -2122,6 +2133,18 @@
         </mxCell>
         <mxCell id="7Hy5hUKYRI1yHbhwEcVO-8" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QWGACa8RrMuYssWl5Wb-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2QWGACa8RrMuYssWl5Wb-3" value="Change in&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;status only" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1OjKB-F3tLIvIjAjPqC-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1OjKB-F3tLIvIjAjPqC-4" value="Dummy notional &lt;br&gt;money added to trip" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="480" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
