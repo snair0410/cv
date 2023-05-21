@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T03:03:55.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ybPOYNtltNMroteVCUxI" version="21.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-21T03:06:40.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8yb9VSfJtQZshSGAire6" version="21.2.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2219,14 +2219,33 @@
         <mxCell id="F53R34sRpFYsrmRVKg3z-5" value="Biz travel employee clicks on Work on travel Requests" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1000" y="560" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F53R34sRpFYsrmRVKg3z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-6" target="F53R34sRpFYsrmRVKg3z-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F53R34sRpFYsrmRVKg3z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F53R34sRpFYsrmRVKg3z-6" value="Full list of travel requests in a list displayed to the Biz travel employee" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="560" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F53R34sRpFYsrmRVKg3z-8" value="Full list of travel requests in a list displayed to the Biz travel employee" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F53R34sRpFYsrmRVKg3z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-10" target="F53R34sRpFYsrmRVKg3z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-13" value="Approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F53R34sRpFYsrmRVKg3z-12">
+          <mxGeometry x="0.1143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-10" value="Travel Request Status?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1320" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-11" target="F53R34sRpFYsrmRVKg3z-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-11" value="Book flights, hotel and airport transfer outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-14" value="Book flights, hotel and airport transfer outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="390" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
