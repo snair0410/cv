@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T01:59:10.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yE6060mv5O0dynTd-HQH" version="21.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-21T02:02:11.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qc_BUEr4LL_BoraMnKDT" version="21.2.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -942,13 +942,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-26" value="Travel request is sent to Finance Approver" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="-60" width="100" height="100" as="geometry" />
+          <mxGeometry x="1850" y="-90" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-28" target="A_GpMfgXt7el1WUEko_E-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-28" value="Go to Page # to see Finance Approver Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="-50" width="120" height="80" as="geometry" />
+        <mxCell id="A_GpMfgXt7el1WUEko_E-28" value="Go to Page Finance Leader Journey from dashboard to see Finance Approver Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="-110" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-36" target="A_GpMfgXt7el1WUEko_E-38">
           <mxGeometry relative="1" as="geometry" />
@@ -1103,7 +1103,7 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-83" value="Employee clicks picture of bill" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2880" y="500" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-86" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A_GpMfgXt7el1WUEko_E-86" value="Go to Finance Employee Journey to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3900" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-87" target="A_GpMfgXt7el1WUEko_E-86">
@@ -1118,7 +1118,7 @@
         <mxCell id="A_GpMfgXt7el1WUEko_E-90" value="An expense report with the expense lines are created below the trip (travel). just an expense report (non-travel)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4340" y="320" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="A_GpMfgXt7el1WUEko_E-91" value="Go to Page # to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A_GpMfgXt7el1WUEko_E-91" value="Go to Finance Employee Journey to see Approval Journey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4500" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A_GpMfgXt7el1WUEko_E-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_GpMfgXt7el1WUEko_E-96" target="A_GpMfgXt7el1WUEko_E-99">
@@ -1769,7 +1769,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RlrhnVX3-Tapi6NsvF9Q" name="Finance Employee Journey">
+  <diagram id="RlrhnVX3-Tapi6NsvF9Q" name="Finance Employee Journey from dashboard">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
