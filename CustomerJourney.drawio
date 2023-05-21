@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T01:54:38.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W21aC_3J818CiW59WjTe" version="21.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-21T01:59:10.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yE6060mv5O0dynTd-HQH" version="21.2.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1923,8 +1923,85 @@
         <mxCell id="hMP8JBYbnu8OVaFgHW-C-1" value="Finance employee sees a list of all cash settlements in a list view" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="970" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-4" target="hMP8JBYbnu8OVaFgHW-C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hMP8JBYbnu8OVaFgHW-C-4" value="Cash Settlements can have 3 status, In Progress, Approved, Rejected." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="1160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-6" target="hMP8JBYbnu8OVaFgHW-C-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-24" value="Approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hMP8JBYbnu8OVaFgHW-C-19">
+          <mxGeometry x="-0.16" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-6" target="hMP8JBYbnu8OVaFgHW-C-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-25" value="In Progress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hMP8JBYbnu8OVaFgHW-C-22">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-6" target="hMP8JBYbnu8OVaFgHW-C-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-30" value="Rejected" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hMP8JBYbnu8OVaFgHW-C-29">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-6" value="Settlement status?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-9" target="hMP8JBYbnu8OVaFgHW-C-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-9" value="Settlement&amp;nbsp; request is in approved status" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="980" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-11" target="hMP8JBYbnu8OVaFgHW-C-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-11" value="Finance employee downloads report having all Settlement&amp;nbsp; request&amp;nbsp;status as approved.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="980" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-13" target="hMP8JBYbnu8OVaFgHW-C-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-13" value="Finance employee processes payments outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="980" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-15" value="Finance employee processes status as Completed." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="980" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-18" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-20" target="hMP8JBYbnu8OVaFgHW-C-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-20" value="Settlement request is In Progress status. Awaiting approval from Leader" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-21" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-27" target="hMP8JBYbnu8OVaFgHW-C-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-27" value="Settlement&amp;nbsp; request is in Rejected Status" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-28" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
