@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T03:06:40.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8yb9VSfJtQZshSGAire6" version="21.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-21T03:16:37.421Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_BK9lJGDCwyzuyOYFYus" version="21.2.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2235,17 +2235,91 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-10" target="cpoA5Q4XvwPhBpCXXgJI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-7" value="In Progress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpoA5Q4XvwPhBpCXXgJI-6">
+          <mxGeometry x="-0.2571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7cryRaVQw_c-9fJhy5tQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-10" target="7cryRaVQw_c-9fJhy5tQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cryRaVQw_c-9fJhy5tQ-6" value="Rejected" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7cryRaVQw_c-9fJhy5tQ-5">
+          <mxGeometry x="-0.3714" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F53R34sRpFYsrmRVKg3z-10" value="Travel Request Status?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1320" y="560" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F53R34sRpFYsrmRVKg3z-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-11" target="F53R34sRpFYsrmRVKg3z-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F53R34sRpFYsrmRVKg3z-11" value="Book flights, hotel and airport transfer outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F53R34sRpFYsrmRVKg3z-11" value="Discover flights, hotel and airport transfer outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1320" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F53R34sRpFYsrmRVKg3z-14" value="Book flights, hotel and airport transfer outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F53R34sRpFYsrmRVKg3z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-14" target="F53R34sRpFYsrmRVKg3z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-14" value="Share the details with the employee outside the system (email)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1480" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-16" target="F53R34sRpFYsrmRVKg3z-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-16" value="Book flights, hotel and airport transfer outside the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-18" target="F53R34sRpFYsrmRVKg3z-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-24" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F53R34sRpFYsrmRVKg3z-23">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-18" target="F53R34sRpFYsrmRVKg3z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-18" value="Attach all tickets to the trip" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F53R34sRpFYsrmRVKg3z-21" target="cpoA5Q4XvwPhBpCXXgJI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-21" value="Notify employee" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F53R34sRpFYsrmRVKg3z-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-1" value="Storage on the trip data object" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="170" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-3" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7cryRaVQw_c-9fJhy5tQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpoA5Q4XvwPhBpCXXgJI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpoA5Q4XvwPhBpCXXgJI-5" value="Trip request is In Progress status. Awaiting approval from People Leader" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cam7rtlrrXUQue-h1gq_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cryRaVQw_c-9fJhy5tQ-4" target="Cam7rtlrrXUQue-h1gq_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cryRaVQw_c-9fJhy5tQ-4" value="Trip Request is in rejected status" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="730" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cam7rtlrrXUQue-h1gq_-1" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cam7rtlrrXUQue-h1gq_-2" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
