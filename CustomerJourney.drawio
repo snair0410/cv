@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T02:06:10.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TSEmQgqCutqf_yqtfRvH" version="21.2.2" type="github" pages="6">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
+<mxfile host="app.diagrams.net" modified="2023-05-21T02:21:10.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fpWLTaSTBTIoO35A6I8m" version="21.2.2" type="github" pages="6">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -720,7 +720,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MyOG0OBDXgrGLwBIohb9" name="Employee Journey from Dashboard">
+  <diagram id="MyOG0OBDXgrGLwBIohb9" name="Employee Journey from Dashboard - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1311,7 +1311,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Qw8851ty0XAEYb1oi_fn" name="People Leader Journey from Dashboard">
+  <diagram id="Qw8851ty0XAEYb1oi_fn" name="People Leader Journey from Dashboard - Web Flow">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1615,7 +1615,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="KqFc3CPDOyOhCTpIGSMF" name="Finance Leader Journey from dashboard">
+  <diagram id="KqFc3CPDOyOhCTpIGSMF" name="Finance Leader Journey from dashboard - Web Flow">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1781,7 +1781,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RlrhnVX3-Tapi6NsvF9Q" name="Finance Employee Journey from dashboard">
+  <diagram id="RlrhnVX3-Tapi6NsvF9Q" name="Finance Employee Journey from dashboard - Web Flow">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2018,11 +2018,34 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Sw4nbCo9WhAec6gkR5iU" name="Business Travel Journey from Dashboard">
+  <diagram id="Sw4nbCo9WhAec6gkR5iU" name="Business Travel Journey from Dashboard - Web Flow">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b5L3rMNPpoo2fXnulW4T-2" target="b5L3rMNPpoo2fXnulW4T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-2" value="A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b5L3rMNPpoo2fXnulW4T-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-4" value="Biz Travel Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b5L3rMNPpoo2fXnulW4T-6" target="b5L3rMNPpoo2fXnulW4T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-6" value="Logs into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b5L3rMNPpoo2fXnulW4T-7" value="All the options for the employee are available for the Biz Travel employee also" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
