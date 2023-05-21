@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T02:59:04.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="peRbZ1o27VszGMoi8gKL" version="21.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-21T01:54:38.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W21aC_3J818CiW59WjTe" version="21.2.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1814,6 +1814,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKAvsXqfvvL_iq4c1Vuu-1" target="hMP8JBYbnu8OVaFgHW-C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-3" value="Settle Employee Cash" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hMP8JBYbnu8OVaFgHW-C-2">
+          <mxGeometry x="-0.1357" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oKAvsXqfvvL_iq4c1Vuu-1" value="Decision by Finance Employee?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="530" width="160" height="160" as="geometry" />
         </mxCell>
@@ -1908,6 +1916,15 @@
         </mxCell>
         <mxCell id="rMvqKX22JL6zubAnWX0g-12" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMP8JBYbnu8OVaFgHW-C-1" target="hMP8JBYbnu8OVaFgHW-C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-1" value="Finance employee sees a list of all cash settlements in a list view" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="970" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMP8JBYbnu8OVaFgHW-C-4" value="Cash Settlements can have 3 status, In Progress, Approved, Rejected." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1160" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
