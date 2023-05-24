@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T03:15:40.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_hVZiDIeN-APUwffhLjX" version="21.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-24T03:29:40.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Uf0b125GYuKtKcIpIxyT" version="21.2.2" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2522,8 +2522,20 @@
         <mxCell id="bOVW-C4MdVl_primpJNY-1" value="MS5 - Rule Engine Validations" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XnVOeKWSV2N_BZtN59qF-1" value="User builds engine grid for rules and validations" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XnVOeKWSV2N_BZtN59qF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnVOeKWSV2N_BZtN59qF-1" target="XnVOeKWSV2N_BZtN59qF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnVOeKWSV2N_BZtN59qF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnVOeKWSV2N_BZtN59qF-1" target="XnVOeKWSV2N_BZtN59qF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XnVOeKWSV2N_BZtN59qF-1" value="User opts to make full payment for the system" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1600" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XnVOeKWSV2N_BZtN59qF-3" value="MS8 - Billing and Payments" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XnVOeKWSV2N_BZtN59qF-6" value="User moved to dashboard" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
