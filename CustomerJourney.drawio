@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:20:03.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lsbpUQlmvjxpsfgJzDdM" version="21.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-24T05:22:41.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="q6PJec6A-FIPhVsmELA9" version="21.2.2" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -3107,7 +3107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exVEhVLOK_rjCCSvCz17-105" value="Retrieve cash advances/settlements&lt;br&gt;&amp;nbsp;specific to employee and all cash advances&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-104">
+        <mxCell id="exVEhVLOK_rjCCSvCz17-105" value="Retrieve cash advances/settlements&lt;br&gt;&amp;nbsp;specific to employee and all cash advances&lt;br&gt;&amp;nbsp;in the system across the organisation plus&lt;br&gt;all expenses for a particular period. plus&amp;nbsp;&lt;br&gt;all expenses across the organisation that&amp;nbsp;&lt;br&gt;need cash settlement." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-104">
           <mxGeometry x="0.2894" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
