@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:11:07.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8_cyCdVR841ok2j9KTDo" version="21.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-24T05:12:30.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nbpiy_gV0zja6X7t1uy2" version="21.2.2" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2677,6 +2677,23 @@
         </mxCell>
         <mxCell id="exVEhVLOK_rjCCSvCz17-9" value="Retrieve all reports allowed by role.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-8">
           <mxGeometry x="-0.1234" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-10" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.417;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nMgjQZNIMmw00FFQwl_e-13" target="exVEhVLOK_rjCCSvCz17-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="1030" as="sourcePoint" />
+            <mxPoint x="1160" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="941" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-12" value="Retrieve all chatbot&lt;br&gt;functionalities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-11">
+          <mxGeometry x="0.3238" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
