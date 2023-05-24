@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:54:48.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="s-59joafwEtjw0Q-dqRg" version="21.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-24T11:02:48.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DDM2lZ7YRW-2wrKeS_AW" version="21.2.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -3803,8 +3803,117 @@
         <mxCell id="9xiQGxbb8HIV-XdNiMe_-9" value="Send to next person in approval flow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="1115" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-2" target="uo9kj8L65c63PZVovUU7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uo9kj8L65c63PZVovUU7-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1430" width="50" height="50" as="geometry" />
+          <mxGeometry x="80" y="1510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-3" target="uo9kj8L65c63PZVovUU7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-10" value="Travel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uo9kj8L65c63PZVovUU7-6">
+          <mxGeometry x="-0.1765" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-3" target="uo9kj8L65c63PZVovUU7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-16" value="Non-Travel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uo9kj8L65c63PZVovUU7-15">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-3" value="Travel or Non Travel?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1485" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-5" target="uo9kj8L65c63PZVovUU7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-5" value="List all trips for the employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-7" target="uo9kj8L65c63PZVovUU7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-9" value="All Active Trips for the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uo9kj8L65c63PZVovUU7-8">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-7" value="MS5 - Expense Capture &amp;amp; Travel Requistion" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-11" target="uo9kj8L65c63PZVovUU7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-11" value="User selects the right trip" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-13" target="uo9kj8L65c63PZVovUU7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-13" value="Expense Booking Form Opens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-17" target="uo9kj8L65c63PZVovUU7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-17" value="Save Expense Booking Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-18" value="MS5 - Rule Engine Validation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="uo9kj8L65c63PZVovUU7-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1505" as="sourcePoint" />
+            <mxPoint x="610" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-20" value="Rule Engine Validation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uo9kj8L65c63PZVovUU7-19">
+          <mxGeometry x="0.0737" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-22" target="uo9kj8L65c63PZVovUU7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="1365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-25" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uo9kj8L65c63PZVovUU7-24">
+          <mxGeometry x="-0.3917" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-27" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-22" target="uo9kj8L65c63PZVovUU7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-28" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uo9kj8L65c63PZVovUU7-27">
+          <mxGeometry x="0.5852" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-22" value="All Validations passed" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1485" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uo9kj8L65c63PZVovUU7-26" target="uo9kj8L65c63PZVovUU7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-26" value="MS5 - Expense Capture &amp;amp; Travel Requistion" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="1505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uo9kj8L65c63PZVovUU7-29" value="Send to next person in approval flow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FeU2xW8WIUtRPzQXCBQz-2" value="Fetch multi currency values" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FeU2xW8WIUtRPzQXCBQz-1" target="uo9kj8L65c63PZVovUU7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FeU2xW8WIUtRPzQXCBQz-1" value="MS10 - Multicurrency" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
