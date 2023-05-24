@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:10:45.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="l8715AIu7FxNn86xVeyq" version="21.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-24T11:27:12.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fcWOemc-zCUeL0Ep8v1m" version="21.2.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -3907,10 +3907,15 @@
           <mxGeometry x="1250" y="1505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FeU2xW8WIUtRPzQXCBQz-2" value="Fetch multi currency values" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FeU2xW8WIUtRPzQXCBQz-1" target="uo9kj8L65c63PZVovUU7-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.6571" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1565" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FeU2xW8WIUtRPzQXCBQz-1" value="MS10 - Multicurrency" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FeU2xW8WIUtRPzQXCBQz-6" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -3966,8 +3971,36 @@
             <mxPoint x="1400" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FeU2xW8WIUtRPzQXCBQz-15" target="WFG-zvoOzaCRRGuMpYFI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FeU2xW8WIUtRPzQXCBQz-15" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="2000" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WFG-zvoOzaCRRGuMpYFI-1" target="WFG-zvoOzaCRRGuMpYFI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-6" value="All approved but unpaid cash payments&lt;br&gt;&amp;nbsp;specific to the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WFG-zvoOzaCRRGuMpYFI-5">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-1" value="MS4 - Finance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-3" value="List all cash settlements, approved but unpaid&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WFG-zvoOzaCRRGuMpYFI-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-7" value="MS3 - HR Master Data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-9" value="Populate company&amp;nbsp;&lt;br&gt;hierarchy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="1650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
