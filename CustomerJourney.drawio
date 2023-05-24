@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:13:20.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HSnMarGjwTqDYubopFgL" version="21.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-24T05:20:03.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lsbpUQlmvjxpsfgJzDdM" version="21.2.2" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2554,7 +2554,7 @@
         <mxCell id="nMgjQZNIMmw00FFQwl_e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMgjQZNIMmw00FFQwl_e-4" target="nMgjQZNIMmw00FFQwl_e-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nMgjQZNIMmw00FFQwl_e-4" value="Any User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="nMgjQZNIMmw00FFQwl_e-4" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="950" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nMgjQZNIMmw00FFQwl_e-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nMgjQZNIMmw00FFQwl_e-5" target="nMgjQZNIMmw00FFQwl_e-7">
@@ -2693,6 +2693,486 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="exVEhVLOK_rjCCSvCz17-12" value="Retrieve all chatbot&lt;br&gt;functionalities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-11">
+          <mxGeometry x="0.3238" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#981616;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1240" as="sourcePoint" />
+            <mxPoint x="2290" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-13">
+          <mxGeometry x="0.6359" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-15" value="&lt;h1&gt;People Leader&lt;/h1&gt;&lt;div&gt;Logging into the system&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1270" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-17" target="exVEhVLOK_rjCCSvCz17-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-17" value="People Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-20" target="exVEhVLOK_rjCCSvCz17-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-20" target="exVEhVLOK_rjCCSvCz17-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-20" value="Logs into the system&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-22" target="exVEhVLOK_rjCCSvCz17-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-22" value="Validate ID and password" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-23" value="MS2 - Login and SSO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-25" target="exVEhVLOK_rjCCSvCz17-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-25" value="User reaches dashboard" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="841" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-26" value="MS12 - Dashboard" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="1590" as="sourcePoint" />
+            <mxPoint x="1110" y="1540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-28" value="Login/Logout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-27">
+          <mxGeometry x="0.0868" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-29" value="MS3 - HR Master Data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-26" target="exVEhVLOK_rjCCSvCz17-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="1450" as="sourcePoint" />
+            <mxPoint x="1120" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-31" value="Retrieve company and HR data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-30">
+          <mxGeometry x="0.44" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-32" value="MS4 - Finance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="1590" as="sourcePoint" />
+            <mxPoint x="1120" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-34" value="Retrieve cash advances/settlements&lt;br&gt;&amp;nbsp;specific to employee and all cash advances&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-33">
+          <mxGeometry x="0.2894" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-35" value="MS6 - Expense capture &amp;amp; Travel Requisition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-26" target="exVEhVLOK_rjCCSvCz17-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="1460" as="sourcePoint" />
+            <mxPoint x="1200" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-37" value="Retrieve all trips/expense reports&lt;br&gt;specific to employee and that is&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-36">
+          <mxGeometry x="-0.06" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-38" value="MS6 - Expense capture &amp;amp; Travel Requisition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1620" as="sourcePoint" />
+            <mxPoint x="1200" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-40" value="Retrieve all tickets opened by the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-39">
+          <mxGeometry x="0.0188" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-41" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-26" target="exVEhVLOK_rjCCSvCz17-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="1770" as="sourcePoint" />
+            <mxPoint x="1200" y="1720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-43" value="Retrieve all reports allowed by role.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-42">
+          <mxGeometry x="-0.1234" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-44" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="921" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.417;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-26" target="exVEhVLOK_rjCCSvCz17-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="1660" as="sourcePoint" />
+            <mxPoint x="1200" y="1580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="981" y="1652" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-46" value="Retrieve all chatbot&lt;br&gt;functionalities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-45">
+          <mxGeometry x="0.3238" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-47" value="&lt;h1&gt;Finance Leader&lt;/h1&gt;&lt;div&gt;Logging into the system&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1940" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-49" target="exVEhVLOK_rjCCSvCz17-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-49" value="Finance Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-52" target="exVEhVLOK_rjCCSvCz17-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-52" target="exVEhVLOK_rjCCSvCz17-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-52" value="Logs into the system&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-54" target="exVEhVLOK_rjCCSvCz17-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-54" value="Validate ID and password" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-55" value="MS2 - Login and SSO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-57" target="exVEhVLOK_rjCCSvCz17-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-57" value="User reaches dashboard" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="861" y="2250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-58" value="MS12 - Dashboard" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="2260" as="sourcePoint" />
+            <mxPoint x="1130" y="2210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-60" value="Login/Logout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-59">
+          <mxGeometry x="0.0868" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-61" value="MS3 - HR Master Data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-58" target="exVEhVLOK_rjCCSvCz17-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="2120" as="sourcePoint" />
+            <mxPoint x="1140" y="2070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="2010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-63" value="Retrieve company and HR data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-62">
+          <mxGeometry x="0.44" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-64" value="MS4 - Finance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="2260" as="sourcePoint" />
+            <mxPoint x="1140" y="2080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="2090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-66" value="Retrieve cash advances/settlements&lt;br&gt;&amp;nbsp;specific to employee and all cash advances&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-65">
+          <mxGeometry x="0.2894" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-67" value="MS6 - Expense capture &amp;amp; Travel Requisition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-58" target="exVEhVLOK_rjCCSvCz17-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="2130" as="sourcePoint" />
+            <mxPoint x="1220" y="2080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="2210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-69" value="Retrieve all trips/expense reports&lt;br&gt;specific to employee and that is&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-68">
+          <mxGeometry x="-0.06" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-70" value="MS6 - Expense capture &amp;amp; Travel Requisition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="2290" as="sourcePoint" />
+            <mxPoint x="1220" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-72" value="Retrieve all tickets opened by the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-71">
+          <mxGeometry x="0.0188" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-73" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-74" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-58" target="exVEhVLOK_rjCCSvCz17-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="2440" as="sourcePoint" />
+            <mxPoint x="1220" y="2390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="2410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-75" value="Retrieve all reports allowed by role.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-74">
+          <mxGeometry x="-0.1234" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-76" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.417;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-58" target="exVEhVLOK_rjCCSvCz17-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="2330" as="sourcePoint" />
+            <mxPoint x="1220" y="2250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1001" y="2322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-78" value="Retrieve all chatbot&lt;br&gt;functionalities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-77">
+          <mxGeometry x="0.3238" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#981616;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1890" as="sourcePoint" />
+            <mxPoint x="2280" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-79">
+          <mxGeometry x="0.6359" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-84" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#981616;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2560" as="sourcePoint" />
+            <mxPoint x="2310" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-84">
+          <mxGeometry x="0.6359" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-86" value="&lt;h1&gt;Finance Employee&lt;/h1&gt;&lt;div&gt;Logging into the system&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="91" y="2600" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-88" target="exVEhVLOK_rjCCSvCz17-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-88" value="Finance Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="301" y="2910" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-91" target="exVEhVLOK_rjCCSvCz17-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-91" target="exVEhVLOK_rjCCSvCz17-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-91" value="Logs into the system&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="461" y="2910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-93" target="exVEhVLOK_rjCCSvCz17-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-93" value="Validate ID and password" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="461" y="2720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-94" value="MS2 - Login and SSO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="2730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-96" target="exVEhVLOK_rjCCSvCz17-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-96" value="User reaches dashboard" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="872" y="2910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-97" value="MS12 - Dashboard" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="2920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-98" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1091" y="2920" as="sourcePoint" />
+            <mxPoint x="1141" y="2870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1091" y="2760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-99" value="Login/Logout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-98">
+          <mxGeometry x="0.0868" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-100" value="MS3 - HR Master Data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1231" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-101" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-97" target="exVEhVLOK_rjCCSvCz17-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1101" y="2780" as="sourcePoint" />
+            <mxPoint x="1151" y="2730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1091" y="2670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-102" value="Retrieve company and HR data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-101">
+          <mxGeometry x="0.44" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-103" value="MS4 - Finance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="2720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-104" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1091" y="2920" as="sourcePoint" />
+            <mxPoint x="1151" y="2740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1091" y="2750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-105" value="Retrieve cash advances/settlements&lt;br&gt;&amp;nbsp;specific to employee and all cash advances&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-104">
+          <mxGeometry x="0.2894" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-106" value="MS6 - Expense capture &amp;amp; Travel Requisition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-107" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-97" target="exVEhVLOK_rjCCSvCz17-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1181" y="2790" as="sourcePoint" />
+            <mxPoint x="1231" y="2740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1151" y="2870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-108" value="Retrieve all trips/expense reports&lt;br&gt;specific to employee and that is&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-107">
+          <mxGeometry x="-0.06" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-109" value="MS6 - Expense capture &amp;amp; Travel Requisition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="2920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-110" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="exVEhVLOK_rjCCSvCz17-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1151" y="2950" as="sourcePoint" />
+            <mxPoint x="1231" y="2840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-111" value="Retrieve all tickets opened by the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-110">
+          <mxGeometry x="0.0188" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-112" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-113" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-97" target="exVEhVLOK_rjCCSvCz17-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1181" y="3100" as="sourcePoint" />
+            <mxPoint x="1231" y="3050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1091" y="3070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-114" value="Retrieve all reports allowed by role.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-113">
+          <mxGeometry x="-0.1234" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-115" value="MS11 - Reporting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="952" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-116" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.417;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-97" target="exVEhVLOK_rjCCSvCz17-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1081" y="2990" as="sourcePoint" />
+            <mxPoint x="1231" y="2910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1012" y="2982" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exVEhVLOK_rjCCSvCz17-117" value="Retrieve all chatbot&lt;br&gt;functionalities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-116">
           <mxGeometry x="0.3238" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
