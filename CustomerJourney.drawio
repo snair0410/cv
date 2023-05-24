@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:22:41.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="q6PJec6A-FIPhVsmELA9" version="21.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-24T05:24:00.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oIkZdpwXD2j6qdvxSIuj" version="21.2.2" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -3034,7 +3034,7 @@
         <mxCell id="exVEhVLOK_rjCCSvCz17-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-88" target="exVEhVLOK_rjCCSvCz17-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="exVEhVLOK_rjCCSvCz17-88" value="Finance Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="exVEhVLOK_rjCCSvCz17-88" value="Finance Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="2910" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exVEhVLOK_rjCCSvCz17-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exVEhVLOK_rjCCSvCz17-91" target="exVEhVLOK_rjCCSvCz17-93">
@@ -3124,7 +3124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exVEhVLOK_rjCCSvCz17-108" value="Retrieve all trips/expense reports&lt;br&gt;specific to employee and that is&lt;br&gt;&amp;nbsp;pending approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-107">
+        <mxCell id="exVEhVLOK_rjCCSvCz17-108" value="Retrieve all trips/expense reports&lt;br&gt;specific to employee&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-107">
           <mxGeometry x="-0.06" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3138,7 +3138,7 @@
             <mxPoint x="1231" y="2840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exVEhVLOK_rjCCSvCz17-111" value="Retrieve all tickets opened by the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-110">
+        <mxCell id="exVEhVLOK_rjCCSvCz17-111" value="Retrieve all tickets opened by the employee&lt;br&gt;and assigned to the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exVEhVLOK_rjCCSvCz17-110">
           <mxGeometry x="0.0188" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
