@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T13:34:58.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PIRgZKu_jbbJy7yj87Lp" version="21.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-24T13:40:43.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3qn-oreRzoUcejijaZ3U" version="21.2.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SytemAdmin-First Time user DIY - Web Flow">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -4151,6 +4151,28 @@
             <mxPoint x="40" y="2560" as="sourcePoint" />
             <mxPoint x="1685" y="2560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WFG-zvoOzaCRRGuMpYFI-45" target="WFG-zvoOzaCRRGuMpYFI-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-45" value="E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2840" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-46" value="List all expense reports for employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WFG-zvoOzaCRRGuMpYFI-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="2835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-49" value="All Active Expense Reports &lt;br&gt;for the employee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WFG-zvoOzaCRRGuMpYFI-48">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFG-zvoOzaCRRGuMpYFI-50" value="MS5 - Expense Capture &amp;amp; Travel Requistion" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2715" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
