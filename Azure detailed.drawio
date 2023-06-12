@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T22:35:59.691Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.7" etag="zo7NJgwUlYQuvEE7eaWy" type="github">
-  <diagram name="Page-1" id="BhGuXJ1vAd6h67xqngJa">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-06-12T22:48:44.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WKBUfyjAE2fN2ETYb6__" version="21.3.7" type="github">
+  <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ux_Ga99ahYITStN8zF4N-1" value="Cloud Definition&lt;br&gt;&lt;br&gt;On demand self service&lt;br&gt;Broad Network Access&lt;br&gt;Resource Pooling&amp;nbsp;&lt;br&gt;Rapid Elasticity&lt;br&gt;Measured Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="520" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
