@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T23:39:30.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7-D290fDkfLppUDSdps7" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T00:00:58.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="80n04WvPbHRd9KWY9t47" version="21.3.7" type="github">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="Ux_Ga99ahYITStN8zF4N-13" value="Public - Setup in a public network . Managed by large companies. accessible through internet. Available to all clients and user. Clients have no access to underlying infrastructure.&lt;br&gt;Private - Setup in an organization&#39;s premises. Managed by the organization&#39;s IT team. Accessible only in the organization&#39;s network. Available to users from the organizations.&lt;br&gt;Hybrid - Cloud setup in an organizations premises. But also connected to the public cloud. Workload is separated between the two clouds. Sensitive data is maintained in the private cloud while less sensitive data can be pushed to the public cloud.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="80" width="700" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux_Ga99ahYITStN8zF4N-14" value="Each datacenter is called a region. Roughly around 60 regions.. Every new resource should be allocated to a region.&lt;br&gt;Some of the regions have more than one datacenter. Great for availability. Each datacenter is called a zone. When there are more than one datacenter in a region the region is said to have availability zones.&amp;nbsp;&lt;br&gt;Some regions have designated pair regions. For increased availability.&amp;nbsp;&lt;br&gt;&lt;br&gt;Subscription vs Account&amp;nbsp;&lt;br&gt;1) Subscription is a logical container. Account is an identity.&amp;nbsp;&lt;br&gt;2) S - Contains the various resources you provision in the cloud. Can be attached to a lot of accounts.&amp;nbsp;&lt;br&gt;&amp;nbsp;I - An identity with access to resources in the subscription. Can be attached to a lot of subscriptions.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1200" width="690" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
