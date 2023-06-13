@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T09:55:08.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wcirEG-v5hUIkVRY5YsW" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-13T23:11:42.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="M8Gqef32-PW56F5MrA1A" version="21.3.7" type="github" pages="2">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -74,6 +74,12 @@
         </mxCell>
         <mxCell id="qrq_7O_jhfoPAqO5qQHO-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-5" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-6" value="&lt;h1&gt;Availability of a VM&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Fault Domain&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Logical group of physical hardware that share a common power source and network switch.&lt;/li&gt;&lt;li&gt;Similar to a rack in a traditional data center.&lt;/li&gt;&lt;li&gt;We should try and spread our servers across more than one fault domain.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Update Domain&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Logical group of physical hardware that can undergo maintenance and be rebooted at the same time.&amp;nbsp;&lt;/li&gt;&lt;li&gt;We should try and spread our servers across more than one update domain.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Availability Set&lt;/li&gt;&lt;ol&gt;&lt;li&gt;A collection of Fault Domains and Update Domains your VM&#39;s will be spread across.&lt;/li&gt;&lt;li&gt;Can contain upto 3 Fault Domains and up to 20 Update Domains.&lt;/li&gt;&lt;li&gt;All these domains both fault and update are in the same zone&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Availability Zone&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1000" width="800" height="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
