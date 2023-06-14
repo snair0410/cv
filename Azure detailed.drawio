@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T05:07:26.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s3a8G_mPqqbkedNlfdeK" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-14T05:16:28.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RsqX5jNSNoWC1nSC8NJd" version="21.3.7" type="github" pages="2">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -90,8 +90,32 @@
         <mxCell id="qrq_7O_jhfoPAqO5qQHO-9" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qrq_7O_jhfoPAqO5qQHO-10" value="&lt;h1&gt;Virtual Machine Scale Set&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-10" value="&lt;h1&gt;Virtual Machine Scale Set&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A group of separate VM&#39;s sharing the same image.&lt;/li&gt;&lt;li&gt;Managed as a group.&lt;/li&gt;&lt;li&gt;Can be scaled out or in together. great for handling unpredictable load.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Once it is setup it should not be modified.&lt;/li&gt;&lt;li&gt;For web apps a load balancer should be put in front of a scale set.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1520" width="760" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-11" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-12" value="Scale Set Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1720" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AyxWOoLuR01hrC0VP45c-1" target="AyxWOoLuR01hrC0VP45c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-1" value="load balancer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1720" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-6" value="Virtual Machine Scale Set VMSS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2000" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
