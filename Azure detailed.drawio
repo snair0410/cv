@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T05:31:21.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AeJ_Cmu-kzggES6cNNSf" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-14T08:35:20.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QrPxm2Spwkm0gvBO1pqQ" version="21.3.7" type="github" pages="2">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="qrq_7O_jhfoPAqO5qQHO-9" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qrq_7O_jhfoPAqO5qQHO-10" value="&lt;h1&gt;Virtual Machine Scale Set&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A group of separate VM&#39;s sharing the same image.&lt;/li&gt;&lt;li&gt;Managed as a group.&lt;/li&gt;&lt;li&gt;Can be scaled out or in together. great for handling unpredictable load.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Once it is setup it should not be modified.&lt;/li&gt;&lt;li&gt;For web apps a load balancer should be put in front of a scale set.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each scale set can have multiple VM&#39;s&lt;/li&gt;&lt;li&gt;Scale sets can be scaled manually or automatically. Basically automatically you have to define the pre-defined conditions on the basis of which the scaling happens.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;These conditions are based on what&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-10" value="&lt;h1&gt;Virtual Machine Scale Set&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A group of separate VM&#39;s sharing the same image.&lt;/li&gt;&lt;li&gt;Managed as a group.&lt;/li&gt;&lt;li&gt;Can be scaled out or in together. great for handling unpredictable load.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Once it is setup it should not be modified.&lt;/li&gt;&lt;li&gt;For web apps a load balancer should be put in front of a scale set.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each scale set can have multiple VM&#39;s&lt;/li&gt;&lt;li&gt;Scale sets can be scaled manually or automatically. Basically automatically you have to define the pre-defined conditions on the basis of which the scaling happens.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;These conditions are based on parameters for eg, scale the machines if the existing 2 VMs have crossed 80% utilization&lt;/li&gt;&lt;li&gt;Another important parameter is the cool down period. Between the scale out or scale in operations the amount of time it needs to stop.&lt;/li&gt;&lt;li&gt;There also scale-in policies.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="1520" width="780" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qrq_7O_jhfoPAqO5qQHO-11" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -116,6 +116,12 @@
         </mxCell>
         <mxCell id="AyxWOoLuR01hrC0VP45c-6" value="Virtual Machine Scale Set VMSS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="2280" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-7" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AyxWOoLuR01hrC0VP45c-8" value="&lt;h1&gt;Azure Instance Metadata Service&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A REST API accessible from the virtual machine. like SKU, storage, networking etc&lt;/li&gt;&lt;li&gt;Accessible only from the vm.&lt;/li&gt;&lt;li&gt;Way for vm to query azure about its own properties.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2360" width="780" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
