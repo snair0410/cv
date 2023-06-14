@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T00:02:42.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L6gjoPNRuOWwfxxjgatn" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-14T05:07:26.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s3a8G_mPqqbkedNlfdeK" version="21.3.7" type="github" pages="2">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="qrq_7O_jhfoPAqO5qQHO-9" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qrq_7O_jhfoPAqO5qQHO-10" value="&lt;h1&gt;Virtual Machine Scale Set&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qrq_7O_jhfoPAqO5qQHO-10" value="&lt;h1&gt;Virtual Machine Scale Set&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1520" width="760" height="130" as="geometry" />
         </mxCell>
       </root>
