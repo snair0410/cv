@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T15:24:34.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f2K0kVUwqTANUxIhbN7u" version="21.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-15T23:55:53.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IYnc1VpWhWXY3GQUVWkI" version="21.3.7" type="github" pages="6">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -459,6 +459,32 @@
         </mxCell>
         <mxCell id="UVLu9EE30nUW0nNscgVt-32" value="APP Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="2760" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sIaisXk7kyVHXS4UU23j" name="Azure Networking - VNets">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JVs7SZ5gOtGttgrDkEMr-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVs7SZ5gOtGttgrDkEMr-2" value="&lt;h1&gt;Azure Networking&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;All aspects of networking in Azure.&lt;/li&gt;&lt;li&gt;Deals with resources network connections, firewalls etc.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Networking is the foundation of cloud security&lt;/li&gt;&lt;li&gt;Never open a VM directly accessible from the internet.&amp;nbsp;&lt;/li&gt;&lt;li&gt;4 main resources in cloud services for networking&lt;/li&gt;&lt;ol&gt;&lt;li&gt;VNets&lt;/li&gt;&lt;li&gt;SubNets&lt;/li&gt;&lt;li&gt;Load Balancers&lt;/li&gt;&lt;li&gt;Applications Gateways&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="860" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="C-pqNbMrptktcuz4wnW6-1" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-pqNbMrptktcuz4wnW6-2" value="&lt;h1&gt;VNets or Virtual networks&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A network in which you can deploy cloud services.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Like VM&#39;s app services etc.&lt;/li&gt;&lt;li&gt;Logically separated from other virtual networks .&lt;/li&gt;&lt;li&gt;Resources in a VNET can communicate with each other.&amp;nbsp; Cannot communicate with other Vnets.&lt;/li&gt;&lt;li&gt;Think of Vnet as the organizations virtual private network.&lt;/li&gt;&lt;li&gt;Vnet is scoped to a single region. eg) only West Europe.&lt;/li&gt;&lt;li&gt;Vnet is scoped to a single subscription.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Vnet can be connected via peering.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Vnets are segmented using Subnets.&lt;/li&gt;&lt;li&gt;They are protected by using NSG. NSgs are defined on the subnets.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Objective should be to limit the access to the network so that the risk is as low as possible.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each Vnet has its own address range or IP range. By default it spans 65,536 addresses. They can be customized. All the devices in the vnet should be in this range. Address Range is expressed using CIDR notation.&lt;/li&gt;&lt;li&gt;CIDR notation.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Stands for classless inter domain routing.&lt;/li&gt;&lt;li&gt;Method of addressing the IP range.&lt;/li&gt;&lt;li&gt;Composed of an address in the range and a number between 0 and 32.&lt;/li&gt;&lt;li&gt;eg) 109.186.149.240/24&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Composed of 4 numbers&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each number is a number of 8 bits&lt;/li&gt;&lt;li&gt;24 is the range . 24 bits is allocated to the address. so from 109 to 149. and 8 bits for the range.&amp;nbsp;&lt;/li&gt;&lt;li&gt;So basically the addresses start from 109.186.149.000 to 109.186.149.255. ie 256 addresses.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="860" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="C-pqNbMrptktcuz4wnW6-3" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-pqNbMrptktcuz4wnW6-4" value="&lt;h1&gt;Subnets&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A logical segment in the Vnet.&lt;/li&gt;&lt;li&gt;Shares a subset of the Vnet&#39;s IP range.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Used as a logical group of resources in the Vnet.&lt;/li&gt;&lt;li&gt;Is a must. Resources must be placed in a subnet , cannot be placed directly in the VNET.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Resources in a subnet can talk to other resources in other subnets in the same Vnet.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each subnet gets a share of the parent Vnet&#39;s IP range.&lt;/li&gt;&lt;li&gt;Never use the full range of the Vnet in a subnet.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Very hard to modify the address space of a subnet later.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Also hard to add future subnets.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Limit of 3000 subnets per vnet.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="860" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
