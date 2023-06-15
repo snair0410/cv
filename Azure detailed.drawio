@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T02:23:08.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-4pPGaZ2CtQRA79qBwqy" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-15T02:35:25.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d8EPAlDNMA2lKqK-Hfav" version="21.3.7" type="github" pages="2">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
           <mxGeometry x="80" y="2550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AyxWOoLuR01hrC0VP45c-10" value="&lt;h1&gt;Setting up our code in a virtual machine.&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Create a virtual machine as always. In this case windows&lt;/li&gt;&lt;li&gt;Connect to the virtual machine using RDP.&lt;/li&gt;&lt;li&gt;Setup the web server called IIS.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Copy the contents from your vs code publish folder to the new catalog folder in the virtual machine.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Configure the IIS to point to this catalog folder. Change the port to 8080.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Open the browser to localhost 8080 and the website will be up. However you cant connect to the website from outside.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;For Linux and ubuntu VM.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Setup a virtual vm as always. In this case linux and ubuntu.&lt;/li&gt;&lt;li&gt;Download if on windows putty and if on mac termius.&lt;/li&gt;&lt;li&gt;Connect to the public IP of the vm using termius.&lt;/li&gt;&lt;li&gt;install git. sudo apt install git and then sudo apt update&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Install the nodejs using sudo apt install nodejs.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;clone the code from github&lt;/li&gt;&lt;li&gt;install the packages. sudo apt install npm.&lt;/li&gt;&lt;li&gt;then start the machine with npm start.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2520" width="810" height="280" as="geometry" />
+          <mxGeometry x="170" y="2520" width="810" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
