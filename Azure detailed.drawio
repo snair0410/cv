@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T03:41:59.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ca0E3X9Fx8EOwPk6gDFY" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-15T03:42:06.160Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BV5t1mn_DlupgZXN26pL" version="21.3.7" type="github" pages="3">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
           <mxGeometry x="90" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qZGZbW-9SBDMvbySL7dk-2" value="&lt;h1&gt;Setting up code in App Services&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Create an App service in azure.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The setup the code in VS.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Deploy the relevant folder directly from VS to the app service.&amp;nbsp;&lt;/li&gt;&lt;li&gt;An URL is generated and in that URL the browser will open the code.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="550" width="860" height="490" as="geometry" />
+          <mxGeometry x="200" y="550" width="860" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
