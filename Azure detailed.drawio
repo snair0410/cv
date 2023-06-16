@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T03:34:58.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sYb9jhCDc48dUC0W6mQ-" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-16T05:33:05.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LVc9WisvysPWhKGtwK4X" version="21.3.7" type="github" pages="6">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -491,6 +491,12 @@
         </mxCell>
         <mxCell id="C-pqNbMrptktcuz4wnW6-6" value="&lt;h1&gt;Network Security Group (NSG)&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;A gatekeeper for subnets.&lt;/li&gt;&lt;li&gt;Defines who can connect in and out of subnets.&lt;/li&gt;&lt;li&gt;Think of it as a mini-farewell.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Should be a standard part of subnet-creation.&amp;nbsp;&lt;/li&gt;&lt;li&gt;NSG looks at 5 tuples&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Source where did the connection from.&lt;/li&gt;&lt;li&gt;Source port&lt;/li&gt;&lt;li&gt;Destination where does the connection go&lt;/li&gt;&lt;li&gt;Destination Port.&lt;/li&gt;&lt;li&gt;Protocol (TCP,UDP or both)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Based on the above the connection is either allowed or denied.&lt;/li&gt;&lt;li&gt;This is called as security rule when combined they are called as the Security Policy.&lt;/li&gt;&lt;li&gt;Each rule is assigned a number. The lower the number the higher the priority.&amp;nbsp;&lt;/li&gt;&lt;li&gt;A nsg is automatically created to every newly created VM&#39;s network interface.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="960" width="860" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="C-pqNbMrptktcuz4wnW6-7" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-pqNbMrptktcuz4wnW6-8" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Network Peering&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Sometimes to increase security we want to place some resources in a completely different vnet not just subnet.&lt;/li&gt;&lt;li&gt;Eg) separate systems, system layers. sensitive databases.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Heightened security&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1270" width="860" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
