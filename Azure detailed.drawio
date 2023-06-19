@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T01:42:28.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FuyYEwNi4_CttRjiOt1t" version="21.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-19T01:47:13.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vCx_mK9CDNNXiDFXbxYh" version="21.4.0" type="github" pages="7">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -897,17 +897,17 @@
         <mxCell id="i01wBHBcZucQYugW4OZN-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i01wBHBcZucQYugW4OZN-4" value="&lt;h1&gt;Azure SQL&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Managed SQL server on Azure.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Works like any other sql server.&lt;/li&gt;&lt;li&gt;Great compatibility with on-prem SQL server.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Offers built in security, availability, backups and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Azure SQL Falvors.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Azure SQL DB&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Managed SQL on Azure&lt;/li&gt;&lt;li&gt;Single DB on single server.&lt;/li&gt;&lt;li&gt;Automatic backups, updates and scaling.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Good compatibility with on-prem SQL server.&lt;/li&gt;&lt;li&gt;IP Firewall rules&lt;/li&gt;&lt;li&gt;Service links available.&amp;nbsp;&lt;/li&gt;&lt;li&gt;SQL and Azure AD authentication.&lt;/li&gt;&lt;li&gt;Secure Communication.&lt;/li&gt;&lt;li&gt;Data encrypted by default.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Full backup every week.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Differential every 12 to 24 hours.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Transaction Log every 5- 10 minutes&lt;/li&gt;&lt;li&gt;&amp;nbsp;Regular backup - Retention period every 7 t0 35 days&lt;/li&gt;&lt;li&gt;Long Term Backup - upto 10 years.&lt;/li&gt;&lt;li&gt;Backup is by default stored in a geo-redundant storage.&lt;/li&gt;&lt;li&gt;Active geo-replication.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Great SLA&lt;/li&gt;&lt;li&gt;Compute Tiers.&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Provisioned.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Pay for allocated resources, regardless of actual use.&lt;/li&gt;&lt;li&gt;Can be reserved.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Serverless&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Pay for actual use- vcore + ram/second.&lt;/li&gt;&lt;li&gt;Automatically paused when active.&lt;/li&gt;&lt;li&gt;Slight delay when warming up&lt;/li&gt;&lt;li&gt;Cant be reserved up&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;Elastic Pool&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Based on Azure SQL&lt;/li&gt;&lt;li&gt;Allows storing multiple DBs on single server.&lt;/li&gt;&lt;li&gt;Great for databases with low average utilisation and infrequent spikes.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cost effective&lt;/li&gt;&lt;li&gt;Purchase the compute resources you need and not the DB&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Managed Instance&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Closer to the on-prem SQL server.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Near 100% compatible with on-prem SQL&lt;/li&gt;&lt;li&gt;Can be deployed to VNet.&lt;/li&gt;&lt;li&gt;Business model closer to on-prem one.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Main Difference&lt;/li&gt;&lt;ol&gt;&lt;li&gt;No active geo-replication.&lt;/li&gt;&lt;li&gt;SLA - 99.99%&lt;/li&gt;&lt;li&gt;Supports built in functions.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Runs CLR code.&amp;nbsp;&lt;/li&gt;&lt;li&gt;No auto scaling and tuning.&amp;nbsp;&lt;/li&gt;&lt;li&gt;No availability zones.&lt;/li&gt;&lt;li&gt;No serverless tier.&amp;nbsp;&lt;/li&gt;&lt;li&gt;no Hyperscale&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Use it if you want your implementation as similar to on-prem SQL&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="370" width="800" height="830" as="geometry" />
+        <mxCell id="i01wBHBcZucQYugW4OZN-4" value="&lt;h1&gt;Azure SQL&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Managed SQL server on Azure.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Works like any other sql server.&lt;/li&gt;&lt;li&gt;Great compatibility with on-prem SQL server.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Offers built in security, availability, backups and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Azure SQL Falvors.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Azure SQL DB&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Managed SQL on Azure&lt;/li&gt;&lt;li&gt;Single DB on single server.&lt;/li&gt;&lt;li&gt;Automatic backups, updates and scaling.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Good compatibility with on-prem SQL server.&lt;/li&gt;&lt;li&gt;IP Firewall rules&lt;/li&gt;&lt;li&gt;Service links available.&amp;nbsp;&lt;/li&gt;&lt;li&gt;SQL and Azure AD authentication.&lt;/li&gt;&lt;li&gt;Secure Communication.&lt;/li&gt;&lt;li&gt;Data encrypted by default.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Full backup every week.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Differential every 12 to 24 hours.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Transaction Log every 5- 10 minutes&lt;/li&gt;&lt;li&gt;&amp;nbsp;Regular backup - Retention period every 7 t0 35 days&lt;/li&gt;&lt;li&gt;Long Term Backup - upto 10 years.&lt;/li&gt;&lt;li&gt;Backup is by default stored in a geo-redundant storage.&lt;/li&gt;&lt;li&gt;Active geo-replication.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Great SLA&lt;/li&gt;&lt;li&gt;Compute Tiers.&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Provisioned.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Pay for allocated resources, regardless of actual use.&lt;/li&gt;&lt;li&gt;Can be reserved.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Serverless&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Pay for actual use- vcore + ram/second.&lt;/li&gt;&lt;li&gt;Automatically paused when active.&lt;/li&gt;&lt;li&gt;Slight delay when warming up&lt;/li&gt;&lt;li&gt;Cant be reserved up&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;Elastic Pool&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Based on Azure SQL&lt;/li&gt;&lt;li&gt;Allows storing multiple DBs on single server.&lt;/li&gt;&lt;li&gt;Great for databases with low average utilisation and infrequent spikes.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cost effective&lt;/li&gt;&lt;li&gt;Purchase the compute resources you need and not the DB&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Managed Instance&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Closer to the on-prem SQL server.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Near 100% compatible with on-prem SQL&lt;/li&gt;&lt;li&gt;Can be deployed to VNet.&lt;/li&gt;&lt;li&gt;Business model closer to on-prem one.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Main Difference&lt;/li&gt;&lt;ol&gt;&lt;li&gt;No active geo-replication.&lt;/li&gt;&lt;li&gt;SLA - 99.99%&lt;/li&gt;&lt;li&gt;Supports built in functions.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Runs CLR code.&amp;nbsp;&lt;/li&gt;&lt;li&gt;No auto scaling and tuning.&amp;nbsp;&lt;/li&gt;&lt;li&gt;No availability zones.&lt;/li&gt;&lt;li&gt;No serverless tier.&amp;nbsp;&lt;/li&gt;&lt;li&gt;no Hyperscale&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Use it if you want your implementation as similar to on-prem SQL&amp;nbsp;&lt;/li&gt;&lt;li&gt;Which Azure to choose&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Are you migrating an on prem-sql ----&amp;gt; Managed Instance&lt;/li&gt;&lt;li&gt;Do you need multiple, mostly low-utilization DB&#39;s ----&amp;gt; Elastic Pool&lt;/li&gt;&lt;li&gt;All Other cases ---&amp;gt; Azure SQL&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="800" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-5" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1240" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="1590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-6" value="Pricing Factors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1260" width="90" height="30" as="geometry" />
+          <mxGeometry x="330" y="1610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-7" value="Flavor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-8" target="i01wBHBcZucQYugW4OZN-11">
           <mxGeometry relative="1" as="geometry" />
@@ -916,7 +916,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-8" value="Managed Instance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1480" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="1830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-9" target="i01wBHBcZucQYugW4OZN-26">
           <mxGeometry relative="1" as="geometry" />
@@ -925,10 +925,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-9" value="Azure SQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1880" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="2230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-10" value="Service Tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-11" target="i01wBHBcZucQYugW4OZN-16">
           <mxGeometry relative="1" as="geometry" />
@@ -937,43 +937,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-11" value="General Purpose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1440" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="1790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-12" target="i01wBHBcZucQYugW4OZN-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="1560" />
-              <mxPoint x="640" y="1580" />
-              <mxPoint x="740" y="1580" />
+              <mxPoint x="650" y="1910" />
+              <mxPoint x="650" y="1930" />
+              <mxPoint x="750" y="1930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-12" value="Business Critical" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-15" value="Instance Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-16" target="i01wBHBcZucQYugW4OZN-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-16" value="Instance Pools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1440" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="1790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-18" target="i01wBHBcZucQYugW4OZN-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-18" value="Single Instance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-21" value="Instance Vcores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="890" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-22" value="8-80" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1480" width="120" height="40" as="geometry" />
+          <mxGeometry x="890" y="1830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-25" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="1990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-26" target="i01wBHBcZucQYugW4OZN-31">
           <mxGeometry relative="1" as="geometry" />
@@ -982,7 +982,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-26" value="Single DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1720" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="2070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-27" target="i01wBHBcZucQYugW4OZN-31">
           <mxGeometry relative="1" as="geometry" />
@@ -991,10 +991,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-27" value="Elastic Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2080" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="2430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-30" value="Purchase Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="1990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-31" target="i01wBHBcZucQYugW4OZN-38">
           <mxGeometry relative="1" as="geometry" />
@@ -1006,7 +1006,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-31" value="DTU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="2190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-32" target="i01wBHBcZucQYugW4OZN-44">
           <mxGeometry relative="1" as="geometry" />
@@ -1018,28 +1018,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-32" value="VCORES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1920" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="2270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-37" value="Service Tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="1990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-38" target="i01wBHBcZucQYugW4OZN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-38" value="Basic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1710" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="2060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-39" target="i01wBHBcZucQYugW4OZN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-39" value="Standard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1770" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="2120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-40" target="i01wBHBcZucQYugW4OZN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-40" value="Premium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1830" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="2180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-44" target="i01wBHBcZucQYugW4OZN-54">
           <mxGeometry relative="1" as="geometry" />
@@ -1048,37 +1048,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-44" value="General Purpose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1890" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-45" target="i01wBHBcZucQYugW4OZN-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-45" value="Business Critical" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1950" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="2300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-46" target="i01wBHBcZucQYugW4OZN-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-46" value="Hyperscale(not available for Elastic Pool)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2010" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="2360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-53" value="Compute Tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1250" y="1990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-54" value="Serverless(not available for Elastic Pool)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1890" width="120" height="40" as="geometry" />
+          <mxGeometry x="1250" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i01wBHBcZucQYugW4OZN-55" target="i01wBHBcZucQYugW4OZN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-55" value="Provisioned(not available for Elastic Pool)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1960" width="120" height="40" as="geometry" />
+          <mxGeometry x="1250" y="2310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-60" value="Instances (vCores/Dtus)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1490" y="1990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i01wBHBcZucQYugW4OZN-61" value="vCores/DTUs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1800" width="120" height="40" as="geometry" />
+          <mxGeometry x="1490" y="2150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
