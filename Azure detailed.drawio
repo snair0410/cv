@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T14:10:14.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9NZIJd-OfSZvIaAeRmNW" version="21.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-19T01:19:48.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dll1PSS5BVt9aP8NgzqO" version="21.4.0" type="github" pages="7">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -879,6 +879,26 @@
         </mxCell>
         <mxCell id="6nYRrpGvx2Fk4vSRUtCp-51" value="Service Endpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="599.9956979443813" y="5600.000322496002" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4PBgXE0w0A2wATBEnPZP" name="Azure Data ">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i01wBHBcZucQYugW4OZN-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i01wBHBcZucQYugW4OZN-2" value="&lt;h1&gt;Major Database Features&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Security. Mainly network isolation and encryption.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Backup. Backup types and retention period.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Availability . SLA, replication and DR.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Database on VM.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Azure VM can be setup with a DB software.&lt;/li&gt;&lt;li&gt;There are ready-made VM&#39;s in the marketplace.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Pros&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Full flexibility.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Full Control.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Cons&lt;/li&gt;&lt;ol&gt;&lt;li&gt;You have to take care of everything.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="860" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="i01wBHBcZucQYugW4OZN-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i01wBHBcZucQYugW4OZN-4" value="&lt;h1&gt;Azure SQL&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Managed SQL server on Azure.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Works like any other sql server.&lt;/li&gt;&lt;li&gt;Great compatibility with on-prem SQL server.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Offers built in security, availability, backups and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Azure SQL Falvors.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Azure SQL DB&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Managed SQL on Azure&lt;/li&gt;&lt;li&gt;Single DB on single server.&lt;/li&gt;&lt;li&gt;Automatic backups, updates and scaling.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Good compatibility with on-prem SQL server.&lt;/li&gt;&lt;li&gt;IP Firewall rules&lt;/li&gt;&lt;li&gt;Service links available.&amp;nbsp;&lt;/li&gt;&lt;li&gt;SQL and Azure AD authentication.&lt;/li&gt;&lt;li&gt;Secure Communication.&lt;/li&gt;&lt;li&gt;Data encrypted by default.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Full backup every week.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Differential every 12 to 24 hours.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Transaction Log every 5- 10 minutes&lt;/li&gt;&lt;li&gt;&amp;nbsp;Regular backup - Retention period every 7 t0 35 days&lt;/li&gt;&lt;li&gt;Long Term Backup - upto 10 years.&lt;/li&gt;&lt;li&gt;Backup is by default stored in a geo-redundant storage.&lt;/li&gt;&lt;li&gt;Active geo-replication.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Great SLA&lt;/li&gt;&lt;li&gt;Compute Tiers.&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Provisioned.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Pay for allocated resources, regardless of actual use.&lt;/li&gt;&lt;li&gt;Can be reserved.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Serverless&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Pay for actual use- vcore + ram/second.&lt;/li&gt;&lt;li&gt;Automatically paused when active.&lt;/li&gt;&lt;li&gt;Slight delay when warming up&lt;/li&gt;&lt;li&gt;Cant be reserved up&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;Elastic Pool&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Based on Azure SQL&lt;/li&gt;&lt;li&gt;Allows storing multiple DBs on single server.&lt;/li&gt;&lt;li&gt;Great for databases with low average utilisation and infrequent spikes.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cost effective&lt;/li&gt;&lt;li&gt;Purchase the compute resources you need and not the DB&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Managed Instance&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Closer to the on-prem SQL server.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Near 100% compatible with on-prem SQL&lt;/li&gt;&lt;li&gt;Can be deployed to VNet.&lt;/li&gt;&lt;li&gt;Business model closer to on-prem one.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Main Difference&lt;/li&gt;&lt;ol&gt;&lt;li&gt;No active geo-replication.&lt;/li&gt;&lt;li&gt;SLA - 99.99%&lt;/li&gt;&lt;li&gt;Supports built in functions.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Runs CLR code.&amp;nbsp;&lt;/li&gt;&lt;li&gt;No auto scaling and tuning.&amp;nbsp;&lt;/li&gt;&lt;li&gt;No availability zones.&lt;/li&gt;&lt;li&gt;No serverless tier.&amp;nbsp;&lt;/li&gt;&lt;li&gt;no Hyperscale&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Use it if you want your implementation as similar to on-prem SQL&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="830" height="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
