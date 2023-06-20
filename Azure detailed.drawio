@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T07:53:08.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YkQTDsmJCaXSFTeQX6kr" version="21.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-20T13:31:26.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5fb30vRDO_NxYKtEPuZa" version="21.4.0" type="github" pages="8">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -884,7 +884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4PBgXE0w0A2wATBEnPZP" name="Azure Data ">
-    <mxGraphModel dx="954" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1472,6 +1472,20 @@
         </mxCell>
         <mxCell id="R9buuVmBS3uZe5H11xJ7-88" value="How to select data store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="254" y="7800" width="270" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="b_b7Jap9ghwoPRqbJO3Z" name="Azure Data - Messaging">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="plHAReLx5A1goXwpWuWc-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="plHAReLx5A1goXwpWuWc-2" value="&lt;h1&gt;Major Database Features&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Security. Mainly network isolation and encryption.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Backup. Backup types and retention period.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Availability . SLA, replication and DR.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Database on VM.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Azure VM can be setup with a DB software.&lt;/li&gt;&lt;li&gt;There are ready-made VM&#39;s in the marketplace.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Pros&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Full flexibility.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Full Control.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Cons&lt;/li&gt;&lt;ol&gt;&lt;li&gt;You have to take care of everything.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="860" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
