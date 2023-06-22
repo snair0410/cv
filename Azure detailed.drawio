@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T01:48:02.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vgrM2wFuHsKO0smaIOSh" version="21.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-22T05:03:24.616Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OQ9VPGUOBQ34SCK7Syuf" version="21.4.0" type="github" pages="10">
   <diagram name="Cloud" id="BhGuXJ1vAd6h67xqngJa">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2163,6 +2163,20 @@
         </mxCell>
         <mxCell id="5doPiPaPGOpoeunb4f71-68" value="Azure AD Authentication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cYc9NM4gpjjQNSpAe7FW" name="Azure Monitoring">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a-1Kq1CPAiM4XyZvpqNq-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a-1Kq1CPAiM4XyZvpqNq-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Azure Monitoring&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;A working app is not enough&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;We must know its status and how it is performing.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Azure offers a lot of built in monitoring mechanisms&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Centralized monitoring hub&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Extremely cost effective&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Happens on 2 types of data&lt;/font&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Metrics Numeric values describing resource&#39;s aspect at specific point in time eg) CPU, disk, Response time&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Logs - Events that occur in the system. textual or numeric. eg_ system started , error occured&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Resource Monitoring&lt;/font&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Every resource has a monitoring system&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Insights - various insights about the resource. different as per resource.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Alerts - alerts to be triggered when something happens&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Metrics - Metrics about the resource.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Logs - log records about events&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="970" height="1680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
