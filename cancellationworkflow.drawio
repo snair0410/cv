@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T14:23:26.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IV8nopm5tIvvjftIlNDj" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-01T14:25:59.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0qrl419NmwR2b7yZpaGu" version="22.0.8" type="github" pages="2">
   <diagram name="Cancellation Workflow for Travel Requests" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -184,6 +184,14 @@
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-15" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IgH0ivac1AJPUavBNKSS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyOlhlhnUVZgFgKbEfRc-16" target="2YVcXeB4K-y9u2wurkfq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="210" />
+              <mxPoint x="300" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-16" value="Paid and Cancelled." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
@@ -213,6 +221,23 @@
         </mxCell>
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-25" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yi2mZVbvIpwaOpo2sRyY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LyOlhlhnUVZgFgKbEfRc-39" target="2YVcXeB4K-y9u2wurkfq-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="1070" as="sourcePoint" />
+            <mxPoint x="300" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2150" y="1070" />
+              <mxPoint x="1265" y="1070" />
+              <mxPoint x="1265" y="1580" />
+              <mxPoint x="300" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yi2mZVbvIpwaOpo2sRyY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LyOlhlhnUVZgFgKbEfRc-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-26" value="Paid and Cancelled." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2110" y="550" width="120" height="60" as="geometry" />
@@ -266,6 +291,18 @@
         </mxCell>
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-44" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Anything Else&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1850" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yi2mZVbvIpwaOpo2sRyY-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Pop up Message back to Dashboard Container saying ttrip has been cancelled&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yi2mZVbvIpwaOpo2sRyY-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="1070" as="sourcePoint" />
+            <mxPoint x="2150" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yi2mZVbvIpwaOpo2sRyY-5" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Pop up Message back to Dashboard Container saying ttrip has been cancelled&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1520" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
