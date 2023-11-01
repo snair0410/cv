@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T14:21:32.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yBT4v3I7lwv_wXs-eocA" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-01T14:23:26.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IV8nopm5tIvvjftIlNDj" version="22.0.8" type="github" pages="2">
   <diagram name="Cancellation Workflow for Travel Requests" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -241,8 +241,31 @@
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-35" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1550" y="730" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LyOlhlhnUVZgFgKbEfRc-36" target="LyOlhlhnUVZgFgKbEfRc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LyOlhlhnUVZgFgKbEfRc-36" value="Check Cash Advance Status?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="700" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="LyOlhlhnUVZgFgKbEfRc-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1990" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-39" value="Paid and Cancelled." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-40" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Change status to&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-41" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Paid&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-42" value="Cancelled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LyOlhlhnUVZgFgKbEfRc-44" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Anything Else&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
