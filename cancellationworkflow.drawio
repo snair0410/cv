@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T12:58:25.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="br1gY0kRkH179CFXci2k" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:04:53.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wCZMSLigw7WdOmlbyPmh" version="22.0.8" type="github" pages="4">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -605,11 +605,58 @@
         <mxCell id="Vi1srEQuPu8RDX_BugYB-7" value="On Click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3890" y="-4380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-8" target="Vi1srEQuPu8RDX_BugYB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vi1srEQuPu8RDX_BugYB-8" value="Open mobile camera" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="-3800" y="-4640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vi1srEQuPu8RDX_BugYB-10" value="Option 1 - Click picture (Mobile only)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3850" y="-4510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-11" target="Vi1srEQuPu8RDX_BugYB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-11" value="User Scans Bills" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3600" y="-4640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-13" target="Vi1srEQuPu8RDX_BugYB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-13" value="Tesseract scans bill" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3400" y="-4640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-15" target="Vi1srEQuPu8RDX_BugYB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-15" value="Is scan successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3200" y="-4690" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-17" target="Vi1srEQuPu8RDX_BugYB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-17" value="Populate line items in new line" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-4850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-19" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3190" y="-4740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2760" y="-4820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-20" value="Save" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-2960" y="-4850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-22" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3030" y="-4860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-25" value="Expense Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-2760" y="-4865" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-26" value="Update changes in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2830" y="-4865" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
