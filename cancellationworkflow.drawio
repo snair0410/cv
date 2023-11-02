@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T02:54:05.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bf69LqEiJlJU8FFi-QGh" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-02T05:53:53.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6jDJXCyejI9uOF4grfAt" version="22.0.8" type="github" pages="3">
   <diagram name="Cancellation Workflow for Travel Requests" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -326,8 +326,75 @@
         <mxCell id="FpujOqRwtCuQE8KV9MhK-3" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Cancels&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IXdlzOIYDFu96ksL9-iT-1" value="Expense Reports&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="II3-7XxeYeSao9Q-zOTx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IXdlzOIYDFu96ksL9-iT-1" target="II3-7XxeYeSao9Q-zOTx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXdlzOIYDFu96ksL9-iT-1" value="Cash Advance through Travel Dashboard view" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVLMp-UYZ-pjIWobG83I-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JVLMp-UYZ-pjIWobG83I-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVLMp-UYZ-pjIWobG83I-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVLMp-UYZ-pjIWobG83I-3" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Cancels&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="II3-7XxeYeSao9Q-zOTx-1" value="Only cash advances with Draft, Pending Approval, Approved, awaiting pending settlement, pending settlement state will be visible on the dashboard to cancel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PweWt-D04_wV0qnd1JjN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PweWt-D04_wV0qnd1JjN-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PweWt-D04_wV0qnd1JjN-2" value="Cancel Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PweWt-D04_wV0qnd1JjN-3" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;User Clicks&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQkRZ9mXVyALwrQv0n3I-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="hQkRZ9mXVyALwrQv0n3I-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQkRZ9mXVyALwrQv0n3I-2" value="Cash Advance Microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hQkRZ9mXVyALwrQv0n3I-3" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Control Passed To&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z96xEuvpT63YBNCm_FLv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z96xEuvpT63YBNCm_FLv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yPp9qg80hlm2-y0fZkPP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z96xEuvpT63YBNCm_FLv-2" target="yPp9qg80hlm2-y0fZkPP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z96xEuvpT63YBNCm_FLv-2" value="Cash Advance Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="525" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z96xEuvpT63YBNCm_FLv-3" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPp9qg80hlm2-y0fZkPP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yPp9qg80hlm2-y0fZkPP-1" target="IXdlzOIYDFu96ksL9-iT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1495" y="280" />
+              <mxPoint x="300" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yPp9qg80hlm2-y0fZkPP-1" value="Update status to Cancelled for cash advance" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="525" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="df3aN9Boxc5NufsX78CV-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Pop up Message back to Dashboard Container saying cash advancet has been cancelled&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
