@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:29:25.293Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nC1ubg_CfhazfDpnAwvR" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:32:11.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="o41Q4Ic0KX2w7U3GmJPU" version="22.0.8" type="github" pages="4">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -857,6 +857,14 @@
         <mxCell id="Vi1srEQuPu8RDX_BugYB-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-90" target="Vi1srEQuPu8RDX_BugYB-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-90" target="Vi1srEQuPu8RDX_BugYB-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2630" y="-3350" />
+              <mxPoint x="-3230" y="-3350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vi1srEQuPu8RDX_BugYB-90" value="Is scan successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2720" y="-3810" width="180" height="160" as="geometry" />
         </mxCell>
@@ -909,6 +917,70 @@
         </mxCell>
         <mxCell id="Vi1srEQuPu8RDX_BugYB-106" value="Asynchronous call Fire and Forget" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1910" y="-3910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-107" value="Trip Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-3988" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-104" target="Vi1srEQuPu8RDX_BugYB-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-109" value="Update changes in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="-3988" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vi1srEQuPu8RDX_BugYB-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3200" y="-3520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-112" target="Vi1srEQuPu8RDX_BugYB-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-112" value="Enable button to Upload file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="-3550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-113" value="Option 2 - Upload bill copy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="-3570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-114" target="Vi1srEQuPu8RDX_BugYB-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-114" value="Uploads file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="-3550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-115" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2970" y="-3560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Vi1srEQuPu8RDX_BugYB-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3260" y="-3490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-119" target="Vi1srEQuPu8RDX_BugYB-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-119" value="Open manual entry form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3320" y="-3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-120" value="Option 3 - Manual entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3380" y="-3370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-121" target="Vi1srEQuPu8RDX_BugYB-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-121" value="Data manually" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="-3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-122" value="User Enters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="-3170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-124" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2690" y="-3170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-126" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2500" y="-3680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-127" value="Open" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2410" y="-3670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
