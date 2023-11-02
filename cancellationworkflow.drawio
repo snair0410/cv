@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T11:51:08.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DQJ08WDD3XCWF7rl-m5H" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T12:58:25.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="br1gY0kRkH179CFXci2k" version="22.0.8" type="github" pages="4">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PxQ8cZv_RyQdDltOuNsW" name="Expense Capturing Process">
-    <mxGraphModel dx="7554" dy="5291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7554" dy="9972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,11 +530,86 @@
         <mxCell id="yneFhEujBhVFP7Gn5H_--36" value="Control Passed To" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5390" y="-4310" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yneFhEujBhVFP7Gn5H_--37" target="7Hoa_bIqcNnciRCl8LyM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yneFhEujBhVFP7Gn5H_--37" value="Expense Microservices" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="-5480" y="-4440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YfONTTRI1rkVGuEzdCTM-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Expense Capture For Travel Expenses&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6170" y="-4520" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-1" value="Expense Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5480" y="-4610" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=50;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Hoa_bIqcNnciRCl8LyM-1" target="yneFhEujBhVFP7Gn5H_--37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-5610" y="-4510" as="sourcePoint" />
+            <mxPoint x="-5530" y="-4400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-5430" y="-4480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-4" value="Fetch trip record from expense container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5550" y="-4500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Hoa_bIqcNnciRCl8LyM-5" target="7Hoa_bIqcNnciRCl8LyM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-5" value="Expense Booking Form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5240" y="-4430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-7" value="Open" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5330" y="-4440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-8" value="What is an Expense Report(Old name -Expense Header)?&lt;br&gt;An Expense Report&lt;br&gt;(expense header) will simply be the container for all expenses within this trip. It will have the following values.&lt;br&gt;1) A unique identifier&lt;br&gt;2) The date on which transaction is being raised.&lt;br&gt;3) If T&amp;amp;E Policies flag is Yes - Validate and Submit Button&lt;br&gt;Else only Submit Button.&amp;nbsp;&lt;br&gt;4)If T&amp;amp;E Policies flag is Yes and&lt;br&gt;If Approval required flag is Yes then show&lt;br&gt;Approval rule setup at company level and button saying Select Approvers. Else Display nothing&lt;br&gt;5) Expense Type - Travel by default.&lt;br&gt;6)Business Purpose - This value will come automatically from what the user has entered during raising travel request. Non editable." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5140" y="-4800" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Hoa_bIqcNnciRCl8LyM-9" target="7Hoa_bIqcNnciRCl8LyM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-9" value="Expense Header" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5000" y="-4430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-11" value="Will Have" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5090" y="-4440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Hoa_bIqcNnciRCl8LyM-12" target="Vi1srEQuPu8RDX_BugYB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-12" value="Expense Lines for already company booked expense lines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4480" y="-4430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Hoa_bIqcNnciRCl8LyM-14" value="Below That" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4710" y="-4440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-1" value="What are already&amp;nbsp; booked expense lines?&lt;br&gt;Since this is a travel expense, we are expecting flight, hotel and cabs as already booked expense lines. They will be displayed in lines below the header with the following values&lt;br&gt;.&amp;nbsp;&lt;br&gt;1) Transaction Date - This will be the bill date, already captured earlier so automatically will populate.&lt;br&gt;&lt;br&gt;2) Vendor Name - This will be already captured earlier so automatically will populate.&lt;br&gt;3) Bill # - This will be already captured earlier so automatically will populate.&lt;br&gt;4) Gross Amount - This will be already captured earlier so automatically will populate.&lt;br&gt;5) Taxes - This will be already captured earlier so automatically will populate.&lt;br&gt;6) Total Amount - This will be already captured earlier so automatically will populate.&lt;br&gt;7) Checkbox - Personal expense- Do not reimburse. For already booked expense lines this will not be enabled.&lt;br&gt;8) Mode Of Payment - Values coming from Cash Expense Options Container. For already booked fields this will be disabld.&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4630" y="-4900" width="440" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-2" target="Vi1srEQuPu8RDX_BugYB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-2" value="Add an Expense Line&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4040" y="-4430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-4" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4220" y="-4380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-5" target="Vi1srEQuPu8RDX_BugYB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-5" value="Give 3 options to user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3800" y="-4430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-7" value="On Click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3890" y="-4380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-8" value="Open mobile camera" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3800" y="-4640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-10" value="Option 1 - Click picture (Mobile only)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3850" y="-4510" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
