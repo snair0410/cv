@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T05:53:53.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6jDJXCyejI9uOF4grfAt" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:33:59.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZzwNpPPtkycG5VaXlDaq" version="22.0.8" type="github" pages="4">
   <diagram name="Cancellation Workflow for Travel Requests" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
         <mxCell id="JVLMp-UYZ-pjIWobG83I-3" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Cancels&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="II3-7XxeYeSao9Q-zOTx-1" value="Only cash advances with Draft, Pending Approval, Approved, awaiting pending settlement, pending settlement state will be visible on the dashboard to cancel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="II3-7XxeYeSao9Q-zOTx-1" value="Cash advances with Draft, Pending Approval, Approved, awaiting pending settlement, pending settlement state." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PweWt-D04_wV0qnd1JjN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PweWt-D04_wV0qnd1JjN-2">
@@ -395,6 +395,17 @@
         </mxCell>
         <mxCell id="df3aN9Boxc5NufsX78CV-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Pop up Message back to Dashboard Container saying cash advancet has been cancelled&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="240" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="InyZLqU57rR_T20eRCo0" name="Cancellation workflow for Paid Cash Advance">
+    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wNYsMVzZxFjnwGskSZda-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Cancellation workflow for Paid Cash Advance&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="550" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
