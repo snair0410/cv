@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:32:11.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="o41Q4Ic0KX2w7U3GmJPU" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:40:17.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L4P4YlL2VD3wPSmuT9Eo" version="22.0.8" type="github" pages="4">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PxQ8cZv_RyQdDltOuNsW" name="Expense Capturing Process">
-    <mxGraphModel dx="7554" dy="9972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7660" dy="10040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -981,6 +981,76 @@
         </mxCell>
         <mxCell id="Vi1srEQuPu8RDX_BugYB-127" value="Open" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2410" y="-3670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-128" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Expense Capture For Non Travel Expenses&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6280" y="-2730" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-133" target="Vi1srEQuPu8RDX_BugYB-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-133" value="Any Role" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-6160" y="-2440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-135" target="Vi1srEQuPu8RDX_BugYB-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-135" value="&amp;nbsp;Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-6030" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-136" value="User is on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6120" y="-2440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-137" value="Book Non Travel Expense Button in Expenses view of Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5840" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-138" value="Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5910" y="-2460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-139" value="Expense Microservices" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-5600" y="-2450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-137" target="Vi1srEQuPu8RDX_BugYB-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-141" value="Control Passed To" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5690" y="-2460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Vi1srEQuPu8RDX_BugYB-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5480" y="-2410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-144" target="Vi1srEQuPu8RDX_BugYB-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-144" value="Expense Booking Form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5360" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-145" value="Open" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5450" y="-2450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-146" value="Expense Header Report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5120" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-147" value="Will Have" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5210" y="-2450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-148" value="What is an Expense Header?&lt;br&gt;An expense header will simply be the container for all expenses within this expense report. It will have the following values.&lt;br&gt;1) A unique identifier&lt;br&gt;2) The date on which transaction is being raised.&lt;br&gt;3) If T&amp;amp;E Policies flag is Yes - Validate and Submit Button&lt;br&gt;Else only Submit Button.&amp;nbsp;&lt;br&gt;4)If T&amp;amp;E Policies flag is Yes and&lt;br&gt;If Approval required flag is Yes then show&lt;br&gt;Approval rule setup at company level and button saying Select Approvers. Else Display nothing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5260" y="-2320" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vi1srEQuPu8RDX_BugYB-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5000" y="-2410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-150" value="Add an Expense Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4600" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi1srEQuPu8RDX_BugYB-151" value="Below That" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4830" y="-2450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-1" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4710" y="-2450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
