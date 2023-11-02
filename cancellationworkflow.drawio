@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:40:17.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L4P4YlL2VD3wPSmuT9Eo" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:48:17.616Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="q3tM7NhjiP7_KvwYK2b2" version="22.0.8" type="github" pages="4">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1043,6 +1043,9 @@
             <mxPoint x="-5000" y="-2410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-150" target="mwSVBPqrOEPL-REvolmZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vi1srEQuPu8RDX_BugYB-150" value="Add an Expense Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="-4600" y="-2440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1051,6 +1054,155 @@
         </mxCell>
         <mxCell id="mwSVBPqrOEPL-REvolmZ-1" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4710" y="-2450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-3" target="mwSVBPqrOEPL-REvolmZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-3" value="Give 3 options to user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4370" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-5" target="mwSVBPqrOEPL-REvolmZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-5" value="Open mobile camera" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4370" y="-2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-6" value="Option 1 - Click picture (Mobile only)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4420" y="-2520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-8" target="mwSVBPqrOEPL-REvolmZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-8" value="User Scans Bills" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4170" y="-2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-10" target="mwSVBPqrOEPL-REvolmZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-10" value="Tesseract scans bill" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3970" y="-2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-12" target="mwSVBPqrOEPL-REvolmZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-12" value="Is scan successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3770" y="-2700" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-14" target="mwSVBPqrOEPL-REvolmZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-14" value="Populate line items in new line" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3740" y="-2860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-15" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3760" y="-2750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3330" y="-2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-17" value="Save" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3530" y="-2860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-18" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3600" y="-2870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-20" target="mwSVBPqrOEPL-REvolmZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-20" value="Expense Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-3330" y="-2875" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-21" value="Update changes in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3400" y="-2875" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-22" value="Apply logic for front end amount adjustment, to reflect immediately in the expense report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="-2875" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-24" value="Status ofReport will be Draft" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3400" y="-2800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-25" value="Expenses Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5110" y="-2630" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vi1srEQuPu8RDX_BugYB-146" target="mwSVBPqrOEPL-REvolmZ-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-5200" y="-2480" as="sourcePoint" />
+            <mxPoint x="-5150" y="-2530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-27" value="Fetch data if expense report is already available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5150" y="-2510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mwSVBPqrOEPL-REvolmZ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4250" y="-2410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-30" target="mwSVBPqrOEPL-REvolmZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-30" value="Enable button to Upload file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4130" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-31" value="Option 2 - Upload bill copy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4230" y="-2460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3910" y="-2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-33" value="Uploads file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-3930" y="-2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-34" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4020" y="-2450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mwSVBPqrOEPL-REvolmZ-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4310" y="-2380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-37" target="mwSVBPqrOEPL-REvolmZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-37" value="Open manual entry form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4370" y="-2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-38" value="Option 3 - Manual entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4430" y="-2260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mwSVBPqrOEPL-REvolmZ-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3470" y="-2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-40" value="Data manually" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-4130" y="-2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-41" value="User Enters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4230" y="-2060" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-42" value="User Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3730" y="-2070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3680" y="-2540" as="sourcePoint" />
+            <mxPoint x="-4280" y="-2050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3680" y="-2330" />
+              <mxPoint x="-4280" y="-2330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-44" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3750" y="-2500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwSVBPqrOEPL-REvolmZ-45" value="Open" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3660" y="-2490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
