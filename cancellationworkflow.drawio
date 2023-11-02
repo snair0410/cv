@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:52:15.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KCeInZIQrxcovV4CCIkg" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:53:58.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ASjUDfYykubDVCji_1rB" version="22.0.8" type="github" pages="5">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PxQ8cZv_RyQdDltOuNsW" name="Expense Capturing Process">
-    <mxGraphModel dx="8068" dy="10300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7258" dy="9783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1208,10 +1208,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EX5eJ9iT52UgVIOmthbi" name="Expense Submission Process">
-    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7554" dy="5291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uUxC_oJddrnOXj0xr1_a-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Expense Submission Process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="-4520" width="550" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
