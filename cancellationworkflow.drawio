@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:53:58.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ASjUDfYykubDVCji_1rB" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-02T14:02:35.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0BuzOW0I3mx2HjiS8icu" version="22.0.8" type="github" pages="5">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1214,6 +1214,45 @@
         <mxCell id="1" parent="0" />
         <mxCell id="uUxC_oJddrnOXj0xr1_a-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Expense Submission Process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6170" y="-4520" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jizvEDJ66wwPkfQpUxi8-2" target="jizvEDJ66wwPkfQpUxi8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-2" value="Any Role" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-6040" y="-4200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jizvEDJ66wwPkfQpUxi8-4" target="jizvEDJ66wwPkfQpUxi8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-4" value="&amp;nbsp;Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5910" y="-4200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-5" value="User is on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6000" y="-4200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jizvEDJ66wwPkfQpUxi8-6" target="jizvEDJ66wwPkfQpUxi8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-6" value="View Expense Report from Expenses View in Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5720" y="-4200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-7" value="Clicks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5790" y="-4220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jizvEDJ66wwPkfQpUxi8-8" target="jizvEDJ66wwPkfQpUxi8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-8" value="Expense Microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-5500" y="-4210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-10" value="Pass control to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5580" y="-4220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-11" value="Expense Booking Form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-5280" y="-4200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jizvEDJ66wwPkfQpUxi8-13" value="Open" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5360" y="-4220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
