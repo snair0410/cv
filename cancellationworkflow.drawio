@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T00:37:13.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l52gi4Dqd26zNkrSDbeo" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-03T00:42:46.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="c-fQLg1SlQ4K6Yh-dWJ1" version="22.0.8" type="github" pages="5">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1429,25 +1429,16 @@
         <mxCell id="C9VJVHH3A9hT-N7TRpZl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZiemY-VP75NJCOHsOOo8-2" target="C9VJVHH3A9hT-N7TRpZl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C9VJVHH3A9hT-N7TRpZl-3" value="Trip Microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="378" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="C9VJVHH3A9hT-N7TRpZl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C9VJVHH3A9hT-N7TRpZl-1" target="C9VJVHH3A9hT-N7TRpZl-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C9VJVHH3A9hT-N7TRpZl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C9VJVHH3A9hT-N7TRpZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1399.04" y="415.03999999999996" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C9VJVHH3A9hT-N7TRpZl-5" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Pass Control To&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1300" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C9VJVHH3A9hT-N7TRpZl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C9VJVHH3A9hT-N7TRpZl-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1520" y="418" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C9VJVHH3A9hT-N7TRpZl-7" value="Trip Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="363" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="C9VJVHH3A9hT-N7TRpZl-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="378" width="60" height="30" as="geometry" />
+        <mxCell id="WXRzcLiEO54HjFU-9O7t-1" value="Expense Reports through Expenses view on Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="385" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
