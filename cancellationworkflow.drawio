@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T00:42:46.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="c-fQLg1SlQ4K6Yh-dWJ1" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-03T01:09:15.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_OVGbE27QHRoXgxTisrV" version="22.0.8" type="github" pages="5">
   <diagram name="Cancellation Workflow for Travel Requests and Trips" id="Kl3eZkdiJHCmHtGax2_Q">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1329,6 +1329,9 @@
         <mxCell id="qYFauMaGrBUf_NabbPD3-6" value="Pass Control To&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3940" y="-4590" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qYFauMaGrBUf_NabbPD3-7" target="GeuG8q0LUGuHXjDdhXhR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qYFauMaGrBUf_NabbPD3-7" value="Expense Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-3600" y="-4675" width="100" height="90" as="geometry" />
         </mxCell>
@@ -1357,6 +1360,41 @@
         </mxCell>
         <mxCell id="qYFauMaGrBUf_NabbPD3-17" value="Update and set Expense Header record to Pending Settlement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4110" y="-4405" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-1" value="Trip Microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-3400" y="-4670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-3" value="Pass Control To&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3500" y="-4600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-4" value="Trip Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-4675" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GeuG8q0LUGuHXjDdhXhR-1" target="GeuG8q0LUGuHXjDdhXhR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-6" value="Send data to be saved in Trip Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3280" y="-4590" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GeuG8q0LUGuHXjDdhXhR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3890" y="-4439" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-8" value="Trip Microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-3790" y="-4479" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-9" value="Pass Control To&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3890" y="-4409" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-10" value="Trip Container" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-3550" y="-4484" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GeuG8q0LUGuHXjDdhXhR-8" target="GeuG8q0LUGuHXjDdhXhR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeuG8q0LUGuHXjDdhXhR-12" value="Send data to be saved in Trip Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3670" y="-4399" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
